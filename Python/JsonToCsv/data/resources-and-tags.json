@@ -1,0 +1,231 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:752060057202:transit-gateway/tgw-098aa87b964b984a0",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-tgw-audit"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:752060057202:event-bus/default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:network-firewall:ap-southeast-1:752060057202:firewall-policy/test",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-athena-query-results",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:752060057202:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-a1dc2752-0704-4db4-98b0-1fa808d48cf8/4e589be0-294b-11ee-a5c5-02b388fdd408",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:752060057202:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-5d151f17-4268-4c93-83e7-55a7bf813bfc/fa7a7970-295a-11ee-bf2a-0204f203a150",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:association/84570d44-3193-4ff6-97da-96ee8ae41ba1",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:752060057202:dhcp-options/dopt-00fee6142ced9fae4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:752060057202:transit-gateway/tgw-048348ab454a2f51c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Central-tgw-audit"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:752060057202:transit-gateway-attachment/tgw-attach-042668d9b84573012",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Central-tgw-att-audit"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:752060057202:key/e86f0834-777b-40b3-adf1-f730ac27c8d9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:752060057202:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        }
+    ]
+}
