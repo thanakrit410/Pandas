@@ -1,0 +1,231 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-5135ff44-38f1-45f9-b189-22fb2a04eabc/36b27100-295f-11ee-94bb-02accb91574a",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy/05d456d0-abe0-11ee-b399-0637aafa5464",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy/05d456d0-abe0-11ee-b399-0637aafa5464"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:288345615974:event-bus/default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::cf-templates-8pzfw1a3dtq9-ap-southeast-1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy/05d456d0-abe0-11ee-b399-0637aafa5464"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstallAndManageCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy/05d456d0-abe0-11ee-b399-0637aafa5464"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:association/7fa5a940-0cf1-41ec-85ec-02f58a24e162",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:288345615974:dhcp-options/dopt-0dee601801154dca8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:288345615974:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:288345615974:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy/05d456d0-abe0-11ee-b399-0637aafa5464"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        }
+    ]
+}

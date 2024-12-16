@@ -1,7 +1,7 @@
 import json
 import os
 from openpyxl import Workbook
-from openpyxl.styles import Border, Side, PatternFill
+from openpyxl.styles import Border, Side
 from openpyxl.styles import Alignment
 
 # Folder paths for JSON and Excel
@@ -18,9 +18,6 @@ border = Border(
     top=Side(border_style="thin"),
     bottom=Side(border_style="thin")
 )
-
-# Define red fill for rows with no tags
-red_fill = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
 
 # Create a new Excel workbook
 wb = Workbook()
@@ -56,22 +53,18 @@ for idx, filename in enumerate(os.listdir(json_folder_path), 1):
                 tags = resource.get("Tags", [])
                 
                 # Collect tags or mark "No Tag" if not available
-                if tags:
-                    tag_str = "\n".join([f"• {tag['Key']}: {tag['Value']}" for tag in tags])  # Add bullet points
-                else:
+                if not tags:  # Only select rows with "No Tag"
                     tag_str = "No Tag"
-                all_rows.append([service_name, resource_arn, tag_str])
+                    all_rows.append([service_name, resource_arn, tag_str])
 
-            # Write data into the Excel sheet
+            # Write data into the Excel sheet, but only the rows with "No Tag"
             for row in all_rows:
                 ws.append(row)
 
-            # Apply borders and highlight rows with no tags
+            # Apply borders to all cells
             for row_index, row in enumerate(ws.iter_rows(min_row=2, max_row=len(all_rows) + 1, min_col=1, max_col=3), start=2):
                 for cell in row:
                     cell.border = border
-                    if row[2].value == "No Tag":  # Highlight rows with no tags
-                        cell.fill = red_fill
 
             # Set 'wrap text' and 'vertical alignment' to top for all columns (A, B, C)
             for col in range(1, 4):  # Columns A, B, C (1, 2, 3)
@@ -95,7 +88,7 @@ for idx, filename in enumerate(os.listdir(json_folder_path), 1):
 del wb["Sheet"]
 
 # Save the Excel file
-excel_filename = "combined_data_highlighted.xlsx"
+excel_filename = "combined_data_no_tag.xlsx"
 excel_file_path = os.path.join(excel_output_folder, excel_filename)
 wb.save(excel_file_path)
 print(f"All data has been written to {excel_filename}")

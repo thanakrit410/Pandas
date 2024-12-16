@@ -1,0 +1,616 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:967656817713:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-eb44529b-2459-4e34-8d16-7a08c0fa2b04/fa4d4ef0-295a-11ee-bb73-06aafe2dddb6",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:directconnect:ap-southeast-1:967656817713:dxcon/dxcon-fgow8hft",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:directconnect:ap-southeast-1:967656817713:dxcon/dxcon-fgwbnvuq",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:customer-gateway/cgw-01ed1b91ff8b6c7c8",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Azure-CRM-customer-gateway"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:image/ami-01abb735629fd5413",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:network-acl/acl-079b4c38f1858f31a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:network-interface/eni-0c49fc0a9e1c262c5",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "masterroute-tgw-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:route-table/rtb-075feb7f5d849a985",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:subnet/subnet-0a3d70a596adf40e7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-route-table/tgw-rtb-05d518b03a69a39e3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-rtb"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:vpc-flow-log/fl-09e84446adab103fe",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-vpc-flow-log"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:967656817713:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-eb1bd7ab-5eea-41bd-9e86-561280ce5517/4dcf2090-294b-11ee-90da-02274b5d6692",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:directconnect:ap-southeast-1:967656817713:dxvif/dxvif-fgc5vd6k",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:route-table/rtb-091eb5b528d0a53ba",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:snapshot/snap-0ab8bf269ccd053a9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:subnet/subnet-0464f1f869f3c3cc6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-attachment/tgw-attach-01d19848781f8f97c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-peeringatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-route-table/tgw-rtb-06ebca19bd4577fd2",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-azure-to-aws-tgw-rtb"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-masterroute-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:association/3d3c7925-0692-45b6-9858-5574d864e511",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:directconnect:ap-southeast-1:967656817713:dxvif/dxvif-fgkg5759",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:network-interface/eni-071ce0ddffbb15bd7",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "masterroute-tgw-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:route-table/rtb-0a65bae683093e0fa",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:vpn-connection/vpn-00822011614c7e1ce",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-aws-to-azure-s2s-conn"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:dhcp-options/dopt-0957c476454822457",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:network-interface/eni-00e3057b135667d06",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "masterroute-tgw-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:subnet/subnet-090a52706af11c8bb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway/tgw-09dae7512bc99d306",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-attachment/tgw-attach-01e9fefd956bad669",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-dxatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-attachment/tgw-attach-0c47c596467059e3f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-attachment/tgw-attach-0d0240c05fec4448d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-inspector-tgw-peeringatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:transit-gateway-attachment/tgw-attach-00fc963a7836ca826",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-aws-to-azure-tgw-vpnatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:vpc/vpc-09bb933f7f39818be",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:967656817713:vpc-flow-log/fl-0c4d99dc2c1f3be3d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-aws-to-azure-tgw-vpnatt-flow-log"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:967656817713:key/ca1a18dd-bcba-47c8-a1f1-6cc6cf927331",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:967656817713:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        }
+    ]
+}

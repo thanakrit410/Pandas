@@ -1,0 +1,285 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:579685590030:dhcp-options/dopt-004bbf5e25d8e4ad4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:579685590030:key/05f33ed0-3c37-4efa-b2d4-79d3d5d2be0a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-config-recording-organization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:579685590030:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-89676b2f-9bf7-47b2-9fd0-e0d60286c700/4d8fa690-294b-11ee-aad2-0a85fa3406b2",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:579685590030:ConfigRecording-Default-Topic",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:579685590030:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-5644bf2f-bb7e-4d14-a2bb-173250d89a91/0d7f66c0-295b-11ee-8a94-026b9d98a442",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:579685590030:key/0f9210c4-ab98-489a-87dd-9a91eb02259d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-cloudtrail-logs-organization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-vpc-flow-logs-organization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:association/6fa51b82-28ea-4819-8a5e-54cdb53706ce",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-elb-logs-organization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-tgw-att-flow-logs-organization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:579685590030:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        }
+    ]
+}

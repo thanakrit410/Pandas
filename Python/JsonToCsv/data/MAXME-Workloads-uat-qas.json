@@ -1,0 +1,2728 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp02-CPU-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp03-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-ssrs01-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-ussd01-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-edc-gateway01-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:dhcp-options/dopt-02083487f95fdfe12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-acl/acl-07cd38dd8f3ff5f8d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-staging-network-acl"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0a7c28b7ca068be66",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0f955d7f5c440065e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-061d43a4487efb842",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-0c932c4c515115106"
+                },
+                {
+                    "Key": "cluster.k8s.amazonaws.com/name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0e92185d144c0e09d",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-061e10f4f279579bd"
+                },
+                {
+                    "Key": "node.k8s.amazonaws.com/createdAt",
+                    "Value": "2024-12-16T01:00:51Z"
+                },
+                {
+                    "Key": "cluster.k8s.amazonaws.com/name",
+                    "Value": "uat-secupi-eks-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-0f25b6cd9f0f38568",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-staging-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-07b261287df8721b7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "ptg-maxme-uat-qas"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-096ed6439fcfc3666",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-0b101a3a12c961fc0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:transit-gateway-attachment/tgw-attach-02bc031c8c1a64eb3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:volume/vol-0c5039197b2a177f9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:943828392815:addon/uat-secupi-eks-cluster/kube-proxy/30c9dfd7-6607-11a5-3f7b-5bb1ef26bf4c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:943828392815:rule/InstanceScheduler-SchedulerRule-o7l7bE4HUgEa",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:943828392815:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/InstanceScheduler/74e160f0-8876-11ee-a678-0aef1dc0af88"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-9970989c23bc8f7ef",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-pcp7"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-9d98c685d11d1fd0d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-pcp7"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:943828392815:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "010rnqckklo4qtucat8cm3tp0c"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/applications/010rnqckklo4qtucat8cm3tp0c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:943828392815:group/AWS_AppRegistry_AppTag_943828392815-instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "010rnqckklo4qtucat8cm3tp0c"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/applications/010rnqckklo4qtucat8cm3tp0c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-crm-appservice-migration-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsMpoDbcGw-BVKDyH",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsArcDbcGw-KP3k9U",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsMobDbcGw-1vGWu2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsCrmDbcGW-KOD8W9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsPosDbcSf-Mu5iMi",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsGwDbcGwF-mAWYpz",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:943828392815:InstanceScheduler-InstanceSchedulerSnsTopic-nGzEkxKJkFbX",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/InstanceScheduler/74e160f0-8876-11ee-a678-0aef1dc0af88"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-CreateAndAttachIAMToInstance-9uv66",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-LA-9uv66-1a710d26-1779-4743-a62e-c4d5bc4ca1bf"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-LA-9uv66-1a710d26-1779-4743-a62e-c4d5bc4ca1bf/73abea30-7c6d-11ee-8886-0a9c8a897e96"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "9uv66"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/noppadon.pa@unit.co.th-0439fe808a18a89e6",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:noppadon.pa@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-07bee21204931d0dd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/noppadon.pa@unit.co.th-0b5a3d02913dda048",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:noppadon.pa@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-02262c0f55fcaa2e9"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp01-CPU-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:instance/i-061e10f4f279579bd",
+            "Tags": [
+                {
+                    "Key": "k8s.io/cluster-autoscaler/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:version",
+                    "Value": "1"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/enabled",
+                    "Value": "true"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-ec2"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "aws:autoscaling:groupName",
+                    "Value": "eks-uat-secupi-eks-node-group-1z0ck7-d6c9dfe3-390c-8961-a72d-302277f4c2db"
+                },
+                {
+                    "Key": "aws:ec2:fleet-id",
+                    "Value": "fleet-3f855804-bdbd-4194-8cba-2c827e770d04"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:id",
+                    "Value": "lt-0e435d5704ae44d7f"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:instance/i-0c932c4c515115106",
+            "Tags": [
+                {
+                    "Key": "k8s.io/cluster-autoscaler/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:version",
+                    "Value": "1"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/enabled",
+                    "Value": "true"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-ec2"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "aws:autoscaling:groupName",
+                    "Value": "eks-uat-secupi-eks-node-group-1z0ck7-d6c9dfe3-390c-8961-a72d-302277f4c2db"
+                },
+                {
+                    "Key": "aws:ec2:fleet-id",
+                    "Value": "fleet-a9b6e59d-d28c-6c0f-ac10-0928706406ca"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:id",
+                    "Value": "lt-0e435d5704ae44d7f"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:launch-template/lt-0e435d5704ae44d7f",
+            "Tags": [
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-acl/acl-0179cb001fbf0348a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-08258a633662ed77a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0490399f69f8cf8c1",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-bastion-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0bfa5861bbdc343db",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-061e10f4f279579bd"
+                },
+                {
+                    "Key": "cluster.k8s.amazonaws.com/name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-0e06838d3a1552e6d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-077bcf34c2d5dbe59",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0beff93f62d44e483",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0a04a76600d7a5534",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-cluster-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-0117899300e04a540",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-staging-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:volume/vol-0828885eab5f217f9",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-bastion-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:volume/vol-0b6f801b6611b0b0e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "uat-secupi-eks-node-group-1z0ck7"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-node-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc-endpoint/vpce-00abdaceefa9fecb3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc-endpoint/vpce-007def74dffbc5ecc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc-endpoint/vpce-0d2b380cfff538314",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc-endpoint/vpce-07665791900388920",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:943828392815:addon/uat-secupi-eks-cluster/vpc-cni/f0c9dfd7-6600-366a-34f2-db3d1e1ad5e7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:943828392815:cluster/uat-secupi-eks-cluster",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:943828392815:rule/AutoScalingManagedRule",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:943828392815:key/74e6528e-7879-4476-b96c-1619c323a681",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:943828392815:key/3ba0de86-0cf2-4d07-91c3-1e497f79ae84",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:943828392815:key/aa0dc5ef-9cb5-4b33-9f2a-58bb78446806",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-9555989d7cd7349a7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-ussd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-90714b4cd0b53c758",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-pcp1"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-93bdedb8317fc9023",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-SSRS-01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-crm-mloyalty-fraud-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsMpoDbcSf-qHbWqJ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/DEV-UAT-Odering-dbcon-0IMwzn",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/weerachai.sa@pt.co.th-0816cec63ae6c1663",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXXB5H5P7NZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0099bc55f95319fbd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/dinesh.reddy@cloud-kinetics.com-072413f8b68560501",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:dinesh.reddy@cloud-kinetics.com"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d395ccd703408b18"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/weerachai.sa@pt.co.th-dq7q5er5dep86gsnsly3rg36xa",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNX2LU65UHSU:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0cff7969b823fdc4b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/warraphol.an@unit.co.th-fi67jlz3blszsyeaxpc5ityxii",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXXB5H5P7NZ:warraphol.an@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-073a564c22bf905d5"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:xray:ap-southeast-1:943828392815:group/Default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-898fa166-3035-45c0-9b75-8f560dca3bec/4e0599e0-294b-11ee-bf09-0aee62e8ce2e",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-LA-9uv66-1a710d26-1779-4743-a62e-c4d5bc4ca1bf/73abea30-7c6d-11ee-8886-0a9c8a897e96",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "9uv66"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp04-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-edc-gateway01-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp05-CPU-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-ssrs01-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp03-CPU-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-06f5880e444969702",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-021dd7e784610a683",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-tgw-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0bf110050eac59d2a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-0381f237883ccc369",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-010a8be2915faf3b4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-01f819f6fef33f4ca",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0a9262e3d066869d8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "ptg-maxme-uat-qas"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0734ba315ef3a7cc5",
+            "Tags": [
+                {
+                    "Key": "AWSApplicationMigrationServiceManaged",
+                    "Value": "mgn.amazonaws.com"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "AWS Application Migration Service default Replication Server Security Group"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-07d2ca8e9cdcfb29e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-078d94e3a2ce24199",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-02a298f2acb5fb0f8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc-endpoint/vpce-06c9c3d71d59d3587",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:943828392815:addon/uat-secupi-eks-cluster/coredns/98c9dfd7-6604-5ffa-d00f-e7e580345133",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:943828392815:addon/uat-secupi-eks-cluster/aws-guardduty-agent/64c9dfd5-d872-802e-8afd-1073bd53dab2",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:943828392815:key/56371513-89d1-4f06-bdb3-1c3b70d5ddd0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:943828392815:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/InstanceScheduler/74e160f0-8876-11ee-a678-0aef1dc0af88"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:943828392815:log-group:/aws/eks/uat-secupi-eks-cluster/cluster",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "/aws/eks/uat-secupi-eks-cluster/cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-9e2e513d9d3655e37",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-pcp7"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-95c5308293882f15c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-EDC-Gat"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:943828392815:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "010rnqckklo4qtucat8cm3tp0c"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/applications/010rnqckklo4qtucat8cm3tp0c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:943828392815:group/instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler/010rnqckklo4qtucat8cm3tp0c",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "010rnqckklo4qtucat8cm3tp0c"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/applications/010rnqckklo4qtucat8cm3tp0c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-qas-maxme-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::elasticbeanstalk-ap-southeast-1-943828392815",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/DEV-CRM-DB-MANAGE-Connectionstring-djeAnm",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/uat-crm-db-3nw38K",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsEdcDbcGw-xbGDr5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/prd-it-new-crm-sendgrid-keyvault-IcKzbG",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/dev-maxstationconnection-db-0DbPEN",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsEdcDbcAc-K3IIo6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsExtDbcGw-QwTV8y",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsPosDbcGw-dPqzQH",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/maxbox-dev-condb-MbnizQ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:association/824c48af-2bb2-4d6d-b484-89f5e0298e0c",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-UpdateExistingInstanceProfile-9uv66",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-LA-9uv66-1a710d26-1779-4743-a62e-c4d5bc4ca1bf"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-LA-9uv66-1a710d26-1779-4743-a62e-c4d5bc4ca1bf/73abea30-7c6d-11ee-8886-0a9c8a897e96"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "9uv66"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/dinesh.reddy@cloud-kinetics.com-056ccde472df11f11",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:dinesh.reddy@cloud-kinetics.com"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d395ccd703408b18"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/weerachai.sa@pt.co.th-0f82713f6b5440b71",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXXB5H5P7NZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-047e59a977205fd71"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:943828392815:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-5eae6d1b-b9b8-4b65-a32d-fb0b774dc246/fae2ff40-295a-11ee-9176-025043b5b274",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:943828392815:stackset/AWS-QuickSetup-SSMHostMgmt-LA-9uv66:f3653a3d-b3e3-4617-9d33-950d17cdd5bb",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "9uv66"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp01-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp04-Statuscheck",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-ussd01-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp02-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:943828392815:alarm:uat-crm-pcp05-CPU-utilization",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:instance/i-0e7d48a895fa3d58e",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC,"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-bastion-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0de69290d5432c982",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-tgw-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-02ee70bd4fc1ef28f",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-vpc-endpoint-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:network-interface/eni-0d744168a2166e69d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxme-tgw-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:route-table/rtb-0b4544d67eb669efb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0fe40e3728baaf142",
+            "Tags": [
+                {
+                    "Key": "AWSApplicationMigrationServiceManaged",
+                    "Value": "mgn.amazonaws.com"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "AWS Application Migration Service default Conversion Server Security Group"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-06793c0976112cfce",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "uat-secupi-eks-cluster"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "eks-cluster-sg-uat-secupi-eks-cluster-1277969233"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:security-group/sg-0581bbdcdba339e19",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "SecuPi"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secupi-eks-cluster-node"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-05e32c88e06fae225",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-005ae7762645c9129",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-011e18145ea065a71",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/uat-secupi-eks-cluster",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-0b63845eaa6987a2f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:subnet/subnet-0de7ee1dc97ffa1fb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:943828392815:vpc/vpc-005fdb97c17840093",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-uat-qas"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:943828392815:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-93c4fac94658e7833",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "UAT-crm-pt-all-"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:mgn:ap-southeast-1:943828392815:source-server/s-926f4872c00f93ae0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "sit-crm-pt-pcp1"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-crm-mloyalty-image-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-crm-db-native-backup-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsGWDbcGwlog-B5oUzn",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsGwDbcGw-NvP5Xv",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsArcDbcAc-QjwR36",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsJobDbcGw-HATKe4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:943828392815:secret:uat/crm/LmsEdcDbcSf-1PY8pY",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/applications/010rnqckklo4qtucat8cm3tp0c",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "1.5.0"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-943828392815-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "aws-instance-scheduler"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:943828392815:/attribute-groups/031b9fsv2027z0mca9yzesdlkv",
+            "Tags": [
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "ap-southeast-1-InstanceScheduler"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/weerachai.sa@pt.co.th-0917b4a9ecb35f534",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXXB5H5P7NZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-099f20d966430637e"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/noppadon.pa@unit.co.th-0d085a0fa66f558f1",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:noppadon.pa@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-02262c0f55fcaa2e9"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/dinesh.reddy@cloud-kinetics.com-07e08b4bb678d931f",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXW5W3B4GXP:dinesh.reddy@cloud-kinetics.com"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d395ccd703408b18"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:943828392815:session/warraphol.an@unit.co.th-lty34rz3kh2gppa7ug654c4oxu",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5XQEOLNXXB5H5P7NZ:warraphol.an@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-073a564c22bf905d5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1805 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:instance/i-08bf69ac6ef2f2cfa",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1a-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0d38924f77ab5667d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1a-inter-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-04fb03f4d5141d281",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-tgw-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-07cc20d5aeb0b1c6f",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-01f9dd781728a3097",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-tgw-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0301c8e712b5f899c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-tgw-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0f02dc50c509da1f4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-05377511b9541ea72",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0a5cb9ca5c2ae0afc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:snapshot/snap-04257594c51e2d0ff",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-vfw-1a_bak-20240103-1342\t"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0029bb0d6cfbee57d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0ecf573675fa5327c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-02a1570f293305ed3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-route-table/tgw-rtb-0ac94e7badc13c4f6",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-rtb (Spoke)"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc/vpc-0e978e80cff9cc815",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint/vpce-0ef3a40b38685fa46",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-e/w-gwlbe-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint/vpce-01321ea399f826028",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint-service/vpce-svc-0a7acb29ab8447e84",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-gwlbe-service"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:070976663616:event-bus/default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:070976663616:log-group:PaloAltoNetworksFirewalls",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:070976663616:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-071df268-587e-404a-a87c-c5fac03cfe50/4ce583e0-294b-11ee-9ab4-0a66fd261458",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-00c9688d1f96b45cf",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-vpc-endpoint-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-03875d613975a319e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-vpc-endpoint-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-03dbe874d4bc9f0bd",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-endpoint-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0fdb7d60139c538c6",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0e44629fb76bbeaf8",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-vpc-endpoint-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0cf0aafa8634d4d13",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-088fbd9a33bf8e305",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-04b788795d1066e2f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-09a23af54bf65da83",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0e19cd7e7968c573b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-08045170ef2714f46",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0939932bc55f61c93",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-00df41a759d30044c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0ae145ec77eb084ad",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-079716bbb64891156",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-route-table/tgw-rtb-0699d6ef2efe237c4",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-rtb (Internet)"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-route-table/tgw-rtb-01680433b8a92d51e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-rtb (Inspected)"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint-service-permission/vpce-svc-perm-05e839edcc3de24ee",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "# PTG NetworkMgmt nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint-service-permission/vpce-svc-perm-0491e64f17dab6c1d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "# PTG NetworkMgmt nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecr:ap-southeast-1:070976663616:repository/nonprd-kong-img",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "kong"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecr:ap-southeast-1:070976663616:repository/nonprd-opensearch-img",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "opensearch"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:070976663616:key/b14bb048-aa9e-4377-b94a-0b86dc480817",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:session/weerachai.sa@pt.co.th-0f8ab301cf99aad72",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROARBBUJ6BAIBHJYPJZD:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-068e7522eb8ca9ea1"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:acm:ap-southeast-1:070976663616:certificate/3a41e434-9d5a-41f0-9c06-e4fde75d86c2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:070976663616:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-31eb7fc7-4ab5-49a6-b1e1-d6440bab581a/f97f77a0-295a-11ee-9d8e-06c12a2f2ef8",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:dhcp-options/dopt-0c5347c795f68cabc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0ccc4afd49eb6c4d3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1a-mgmt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-098bfd2f382e0f0e9",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1c-inter-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-0dc0f079bf4302466",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-endpoint-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-053dcc3596010582c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1b-mgmt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0e449f387cab95712",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0b83de63765a6af3f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0a9f4585c1bcc0484",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-004d31cdb3b8c098a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-01ca10cf7e2fe4c40",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0a3dae3cc98e6433f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-02bc031c8c1a64eb3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxme-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0691c02bf67b6a9fb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-ptg-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-080fc9240afbeedb7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0dda9e0ab08cf51fd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0324cdde282f09e7a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PTG-masterroute-tgw-peeringatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0e06f320d2bb619e0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-autobacs-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-02c702d10879ca899",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-ptc-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-02636504fee59ee2e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:volume/vol-08ce96fd76e1d80a2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1a-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint/vpce-0918fe13750800a10",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-e/w-gwlbe-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint-service-permission/vpce-svc-perm-0104968d5ca5a8188",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "AUTOBACS Workloads nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecr:ap-southeast-1:070976663616:repository/nonprd-logstash-img",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "logstash"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecr:ap-southeast-1:070976663616:repository/nonprd-konga-img",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "konga"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecr:ap-southeast-1:070976663616:repository/nonprd-opensearchdashbaord-img",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "opensearch"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:070976663616:loadbalancer/gwy/nonprd-paloalto-gwlb/45e403835e10478d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:association/7877be2d-7f9a-44a8-84f9-e545799481ae",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-acl/acl-0a0c13d473bf8f7dd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-030926d6a939005ea",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1b-inter-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-07c68cc7d389c5366",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-07493d54745d4a478",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-gwlb-endpoint-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:network-interface/eni-05e77597c76883f61",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-az1c-mgmt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-026966b2540d47108",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-0824a422dd8fb15c2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:route-table/rtb-096caff83b5220563",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0c85f895a1dc102ad",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-04fe6adb89de3e9a5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0b0c0a49dee044323",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-005458a54badd6cbc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-005860290f4183957",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0998673619b8ca482",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-mgmt-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-01e3bafce0caffd90",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-gwlb-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-03c5e74094e295af8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-e/w-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:subnet/subnet-0de15a7ba10f21934",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-inter-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0440f464971a6a662",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-ptg-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-06fe2428a5e8ee545",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-ptc-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-09d512bd88f9389fd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxventures-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0c04941fe3adef012",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-networkmgmt-tgw-peeringatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-06854094f1da4a339",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-autobacs-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:transit-gateway-attachment/tgw-attach-0959f493509c42e70",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-retails-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:070976663616:vpc-endpoint/vpce-03ff058106ada577b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-paloalto-e/w-gwlbe-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:070976663616:targetgroup/nonprd-paloalto-gwlb-tg/0072d8e5d60480a74b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::ptg-nonprd-inspector-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:070976663616:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2272 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:apigateway:ap-southeast-1::/vpclinks/7600zl",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-service/uat-chatx-ecs-cluster/uat-chatx-webservice-ecs-service-AlarmLow-15c69e5c-d48a-4ba0-814a-8944ead2b091",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:awsec2-i-0c38202ff76233c8b-GreaterThanOrEqualToThreshold-StatusCheckFailed",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0895a92bce0c73b45",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-04934eb49352bef2a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-024e6e12790092922",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0eef970fc09e2a02d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0d239117ad5914d1b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-0ff7db85395202034",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-022dac4f665dd820a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-0151e7ff2777f1371",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-0cb3cee6a71ac6384",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "Private"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:volume/vol-0db4bb20dd708e411",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secure-agent-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:volume/vol-016cd44e3a5927601",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-wms-addon-ebs02"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc/vpc-0dcc8c522dd5c21f5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:cluster/uat-chatx-ecs-cluster",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "Infra-ECS-Cluster-uat-chatx-ecs-cluster-8c7377ec"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/Infra-ECS-Cluster-uat-chatx-ecs-cluster-8c7377ec/ecf86b50-849d-11ef-8405-0295f599fc9d"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ECSCluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:targetgroup/uat-qas-msk-all-eni-tg/41990ca295d05d9b",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:590183704978:log-group:/aws/lambda/uat-qas-mskproducer-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:590183704978:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "0auw9fikis0id2jdljo49mz34s"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/applications/0auw9fikis0id2jdljo49mz34s"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:590183704978:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "0auw9fikis0id2jdljo49mz34s"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/applications/0auw9fikis0id2jdljo49mz34s"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-chatx-resource-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-qas-datamgmt-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/attribute-groups/0bezo3sl87d3hp42pj6cda3g6b",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "attgroup-ap-southeast-1-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:590183704978:InstanceScheduler-InstanceSchedulerSnsTopic-2SgK81a6e3QW",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/InstanceScheduler/73aa5ee0-b0f7-11ee-8754-0aef684a8d41"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092/a3a10e20-abdc-11ee-99e2-06df4b772f68"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstallAndManageCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092/a3a10e20-abdc-11ee-99e2-06df4b772f68"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-0cf9bd929278c2b43",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c38202ff76233c8b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-sy6au6bevlaf5emwrd77xrvb4u",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c38202ff76233c8b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-053772b528b9a4733",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-009bb9fa1204c5d43"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-Infra-ECS-Cluster-uat-chatx-ecs-cluster-8c7377ec-ECSAutoScalingGroup-S29mHDpITYAZ-AlarmHigh-2251c2c1-a611-4fb6-8764-11b3971732d2",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-service/uat-chatx-ecs-cluster/uat-chatx-engine-ecs-service-AlarmHigh-e5054517-824d-4fd6-a506-c4b1e3245e91",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-047e3f6d3831d0fee",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-088d87159a94c9c9a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-04156472d0bba3779",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-033447986d1646cc5",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-093cfdb9087e9d2f7",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0811712c7a257defb",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0eab335193c2cb091",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0033f7a7c1c94981d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0b46f9614451375fb",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0e5c2cb88e5b12199",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-056a910bdd217a2cd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-0b3184c7ccf41cdfe",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-02ab0536acace3b03",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-staging-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:transit-gateway-attachment/tgw-attach-02a1570f293305ed3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-0594e3bae3db21f57",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:service/uat-chatx-ecs-cluster/uat-chatx-webservice-ecs-service",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:task/uat-chatx-ecs-cluster/2a65027e943649d885c748b3450e1614",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-chatx-engine-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-chatx-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:task/uat-chatx-ecs-cluster/cf49806bc1324f288104971835b4095f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-chatx-webservice-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-chatx-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:loadbalancer/app/uat-qas-datamgmt-alb/9088a2c4115359df",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:loadbalancer/net/uat-qas-msk-internal-nlb/b7f6907e2c3b3d98",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:targetgroup/uat-qas-msk-b-2-tg/d2a3aa1d005d43e1",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:590183704978:function:uat-qas-mskproducer-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:590183704978:function:uat-chatx-extractor-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:590183704978:log-group:/aws-glue/crawlers",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:590183704978:subgrp:uat-qas-datamgmt-vpc",
+            "Tags": [
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:590183704978:group/instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler/0auw9fikis0id2jdljo49mz34s",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "0auw9fikis0id2jdljo49mz34s"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/applications/0auw9fikis0id2jdljo49mz34s"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:590183704978:group/AWS_AppRegistry_AppTag_590183704978-instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "0auw9fikis0id2jdljo49mz34s"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/applications/0auw9fikis0id2jdljo49mz34s"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:590183704978:secret:uat/chatx/secrets-EZNkEi",
+            "Tags": [
+                {
+                    "Key": " map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": " Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:590183704978:secret:AmazonMSK_uat-qas/datahub/msk/msk_admin-pR5UlZ",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:servicediscovery:ap-southeast-1:590183704978:namespace/ns-ibzfdajxc3n4k675",
+            "Tags": [
+                {
+                    "Key": "AmazonECSManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-d6b2fc3e-7bc0-49ed-bfe6-e8a62a121080"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-d6b2fc3e-7bc0-49ed-bfe6-e8a62a121080/65d74430-aca2-11ee-99e2-06df4b772f68"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "QuickSetupEnableConfigRecordingDoc"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092/a3a10e20-abdc-11ee-99e2-06df4b772f68"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/dumrongsak.pi@pt.co.th-ctqxlw3s6bc5ta2fhjxzo7ksgi",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:dumrongsak.pi@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d41c29f53ce36777"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092/a3a10e20-abdc-11ee-99e2-06df4b772f68",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-Infra-ECS-Cluster-uat-chatx-ecs-cluster-8c7377ec-ECSAutoScalingGroup-S29mHDpITYAZ-AlarmLow-9bdfce9d-1644-45b1-b093-2747742cf109",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:instance/i-0c38202ff76233c8b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "-Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Stopped By InstanceScheduler 2024/11/12 13:00UTC"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-mdm-secure-agent-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-00f6e34f8cb84d744",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0d4030185d2937f35",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-09e6a1ffcf823bb6d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0590a8c8bae3c628b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-chatx-webservice-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-chatx-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0d0e4943294c2236b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-09470e40482bee0f9",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0987b931ebe526d20",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-01cc1235a5d151a36",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-secure-agent-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0898fa9981e81f9d5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-chatx-engine-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-chatx-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-09238735cd4b6513e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-staging-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-0e475a7d072a5f9e2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-02a17dc63fee00160",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-vpc-private-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-060daa4d6575d2e76",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:security-group/sg-07ccbd3d84dfd18dc",
+            "Tags": [
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:volume/vol-0d87157f504bae869",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-wms-addon-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-0bdb8f744d341ed25",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-09ec6810b7783a39b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-0f9ceace4a4f38b2e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-databricks-workspace-vpc-endpoint"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-070e170656a12e750",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-048c8a1531beaefe0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:service/uat-chatx-ecs-cluster/uat-chatx-engine-ecs-service",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:listener/app/uat-qas-datamgmt-alb/9088a2c4115359df/28ee59417081bbd8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:590183704978:rule/ecs-managed-capacity-provider-rule",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:kafka:ap-southeast-1:590183704978:cluster/uat-qas-datahub-msk-cluster/9758c854-1db7-4057-89c2-83502dc7efb4-2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:590183704978:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/InstanceScheduler/73aa5ee0-b0f7-11ee-8754-0aef684a8d41"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:590183704978:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/InstanceScheduler/73aa5ee0-b0f7-11ee-8754-0aef684a8d41"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-qas-athena-query-result-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-qas-databricks-storage-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sqs:ap-southeast-1:590183704978:uat-chatx-extractor-queue",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:association/0a679c32-6c73-42cc-8dc9-3f08d841cb18",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/chitavorn.bh@unit.co.th-0adb6f6d19b342267",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJMR3EWBDUQ:chitavorn.bh@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c4abfe07f429db30"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-07f9ff4117006180e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0780900dbeabdd9a5"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-08be413cac9be5e1a",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c38202ff76233c8b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:acm:ap-southeast-1:590183704978:certificate/8db9f44b-a2bb-4433-8e5f-bf0e32753ea4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-d6b2fc3e-7bc0-49ed-bfe6-e8a62a121080/65d74430-aca2-11ee-99e2-06df4b772f68",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-service/uat-chatx-ecs-cluster/uat-chatx-webservice-ecs-service-AlarmHigh-e7284f4e-1fb0-4e60-a9da-7aa15e7ac66a",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:590183704978:alarm:TargetTracking-service/uat-chatx-ecs-cluster/uat-chatx-engine-ecs-service-AlarmLow-6ace1458-5195-47c3-91ff-bf09ffc5e8db",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:dhcp-options/dopt-0bc47d9c68e65953a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:instance/i-0d41c29f53ce36777",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-wms-addon-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-acl/acl-0d8d165a24f480916",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-staging-network-acl"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-acl/acl-0f9dd7579bfaa8a8f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-03f70d2d2bee1eb9c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-062928c1d0ba38489",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-wms-addon-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-038c8a889fb1bc189",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-04db5f06464bc3dbf",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-054f98b5b9c6d5346",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:network-interface/eni-0dc64a5b814f42b35",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "data-mgnt-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-042b356c750bef4b7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-0e8fd0b05fe388235",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-vpc-private-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:route-table/rtb-02e39e5bf5f81916f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:snapshot/snap-01f0e05a4bd50a3e4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-secure-agent_bak20240311-1520"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-00dda6b29d3e00148",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-0a940c663313898ca",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "uat-qas-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "Private"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:subnet/subnet-09619b4b91bd0cc56",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-datamgmt-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-07e23508c5b9f8a7d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-0d8307a08a887fb2e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-databricks-scc-vpc-endpoint"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:590183704978:vpc-endpoint/vpce-0cedfc67168a21d62",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:590183704978:capacity-provider/Infra-ECS-Cluster-uat-chatx-ecs-cluster-8c7377ec-EC2CapacityProvider-YarlySj1YrH4",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:590183704978:targetgroup/uat-qas-msk-b-1-tg/b194685d1ecac258",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:es:ap-southeast-1:590183704978:domain/uat-chatx-vectordb-search",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "ChatX"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:590183704978:rule/InstanceScheduler-SchedulerRule-Ubz0oChGzocZ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:590183704978:function:uat-qas-graphql-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:590183704978:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:590183704978:log-group:/aws/lambda/uat-qas-graphql-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:590183704978:secret:AmazonMSK_uat-qas/datahub/msk/msk_user-YJl0Pp",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:590183704978:/applications/0auw9fikis0id2jdljo49mz34s",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-590183704978-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:590183704978:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-c1c3d372-64fb-4077-9af2-87877bac2092/a3a10e20-abdc-11ee-99e2-06df4b772f68"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-09fc499f8c69321ae",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c38202ff76233c8b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/weerachai.sa@pt.co.th-5qg5o2jyb2sdbp55vqcwntcsxa",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c38202ff76233c8b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:590183704978:session/dumrongsak.pi@pt.co.th-hgdhxv2tljxwvejftujk7nbfdi",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAYS2NQVGJADGTU5KAC:dumrongsak.pi@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d41c29f53ce36777"
+                }
+            ]
+        }
+    ]
+}

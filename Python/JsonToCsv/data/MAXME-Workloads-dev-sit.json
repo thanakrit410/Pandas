@@ -1,0 +1,1480 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:461518124477:table/InstanceScheduler-MaintenanceWindowTable-296T8OU8Y5E5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:dhcp-options/dopt-0e6e21293dcbc976f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:launch-template/lt-0c002b30f880b5e40",
+            "Tags": [
+                {
+                    "Key": "AWSApplicationMigrationServiceManaged",
+                    "Value": "mgn.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-acl/acl-0b8d676845371d791",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-09798211ec7adc2df",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-08fabacb66aa4e632",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-0fe9e2164f4dd935f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-07ebca3d885a26bff",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-0be5669c332bfe523",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:security-group/sg-0e1b673171cfcdbb4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:security-group/sg-07b8e18efafc5b3c2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "ptg-maxme-dev-sit"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-0a954274233902cfd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:transit-gateway-attachment/tgw-attach-080fc9240afbeedb7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-0595180b1bcec758e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-0fd6a4bf7c1d6c75c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:461518124477:rule/InstanceScheduler-SchedulerRule-LLmvaML7tR8j",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:og:default:sqlserver-se-15-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/applications/007arbuukmq9s1avfzeyzfivoq",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/attribute-groups/056t13a2gqaairkzjmp6690ew7",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "attgroup-ap-southeast-1-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:461518124477:InstanceScheduler-InstanceSchedulerSnsTopic-DgidHZhEfaZS",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:461518124477:stack/InstanceScheduler/4858b630-89ea-11ee-a5ae-0299aff56d2e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:association/9c534e35-81fc-48de-b11d-6430c4f3a57d",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:461518124477:table/InstanceScheduler-StateTable-BNX2PEU092P",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-acl/acl-04bf17846c125f818",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-staging-network-acl"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-08d5b87f014f0f91a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-0a9e6612d51411748",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-0086b4f63664a928e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:security-group/sg-04c579a21445c2118",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-0f1f8365d083495c2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-vpc-maxme",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-0b37db2b8cef59273",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-vpc-maxme",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-01f65909c9c50cfeb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-0160df0f46064cd2f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-staging-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:461518124477:key/532a61e9-c000-40e9-86e2-08528add5be8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:461518124477:key/ad82b621-439e-49bc-a72b-4f2c67ea8dd0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:461518124477:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:og:default:sqlserver-ee-15-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:og:default:sqlserver-ee-12-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:xray:ap-southeast-1:461518124477:group/Default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:461518124477:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-07d98902-9235-4e69-a13e-e0e9706d63d4/4d4e09b0-294b-11ee-a791-0606776d4d5e",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:461518124477:table/InstanceScheduler-ConfigTable-5AELD1VZRIN5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-055d90aca8678bc7d",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-09362b5aca9b4a6e6",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0ac8c66af605bb7e0",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-07280cf406685aba3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0e6fd24afad5f9911",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-03d4aa26d9f4024d2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-0314c1c3a1e5ad621",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-staging-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:route-table/rtb-004ac683a90aa2bfc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:security-group/sg-035ad899d529f17c9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-020c4a00284bfc713",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-vpc-maxme",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc/vpc-010a02d84557c92e5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-0ef4d7f7652086fbb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-034428dc9a5f577bf",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:461518124477:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:461518124477:stack/InstanceScheduler/4858b630-89ea-11ee-a5ae-0299aff56d2e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:461518124477:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:461518124477:stack/InstanceScheduler/4858b630-89ea-11ee-a5ae-0299aff56d2e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:pg:default.sqlserver-ee-15.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:snapshot:dev-crm-db-snapshot",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "CRM"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:snapshot:dev-crm-db-deleted-snapshot",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "CRM"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/08/27 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:subgrp:rds-private-subnets",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:461518124477:group/instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler/007arbuukmq9s1avfzeyzfivoq",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "007arbuukmq9s1avfzeyzfivoq"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/applications/007arbuukmq9s1avfzeyzfivoq"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:461518124477:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "007arbuukmq9s1avfzeyzfivoq"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/applications/007arbuukmq9s1avfzeyzfivoq"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-sit-maxme-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:session/weerachai.sa@pt.co.th-eb3af4ap3q5ro5gnlxun7y3my4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAWW5E7WW6UDRW53LS5:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-084d9a948f775c5f4"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:461518124477:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-87c1c9c0-ccae-4182-bb22-68763e1ea21b/fa057080-295a-11ee-8328-026ef824cd5a",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0182bca207fbef3a0",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0379cd4f60155e162",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0e70a806fdbc26915",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:network-interface/eni-0ae2e50768f94f94e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ec2-elastic-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:security-group/sg-063eaed138d1d37dc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-02b02877b7dd46277",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-vpc-maxme",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:subnet/subnet-0aaa49edaad1b798a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "ptg-maxme-dev-sit"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-vpc-maxme",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-maxme-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc/vpc-0da87e27f8ab23aaa",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "ptg-nwmgmt-non-prd-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-0121102f9249ff71a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:461518124477:vpc-endpoint/vpce-0a5f3ff019765e46f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:461518124477:log-group:RDSOSMetrics",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:pg:default.sqlserver-se-15.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:461518124477:pg:default.sqlserver-ee-12.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:461518124477:group/AWS_AppRegistry_AppTag_461518124477-instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "007arbuukmq9s1avfzeyzfivoq"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/applications/007arbuukmq9s1avfzeyzfivoq"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:461518124477:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "007arbuukmq9s1avfzeyzfivoq"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-461518124477-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:461518124477:/applications/007arbuukmq9s1avfzeyzfivoq"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:461518124477:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        }
+    ]
+}

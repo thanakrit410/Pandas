@@ -1,0 +1,852 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-0dd3a863-a303-44b3-b97d-4d4b264bf068/a756c070-ad0b-11ee-86e3-06af5534663c",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:907313819931:rule/AutoScalingManagedRule",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:og:default:sqlserver-ex-15-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:og:default:postgres-15",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:pg:default.sqlserver-ex-15.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-CreateAndAttachIAMToHybridNode-92med",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd/a7c62540-113e-11ef-89ca-0ab6227d4e3b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToHybridInstanceDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Patch Manager"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.3"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "92med"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-08a685b90602e9b6e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a98b036f00e366bc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-uf7j3djfwypubla2lyccmhoe3e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-08010e99cecbfb5d8"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0bfb0f6cb9a346d52",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-024ba285a10a4eb8c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-ailrjwjmgrkpnemquvbdicwy7m",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0bf8e63f1df05213f"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-itlfy77agujkcmcn2xlvktliee",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-03a5429d1fd5fb9d2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-iil5c3rpgjim23ivnawxngbqd4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-03a5429d1fd5fb9d2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/pornphoj.ke@pt.co.th-060de822ce8011e3b",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:pornphoj.ke@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-09c684d22074938ac"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-038a9177d410ba46d",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-06b4a460195b4e35b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-pknnbo44nljfhei235na75lujm",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-03a5429d1fd5fb9d2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0b6dfc87f15ecb04b",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0480422cc6c092518"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0152babd87239e6d5",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-09309f7b4e3d9e8b5"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-ht7l76wgh5xxgytn4pky23vfe4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0beb943563a9eed2b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:catalog:ap-southeast-1:907313819931:portfolio/port-iau6hgihcmbdu",
+            "Tags": [
+                {
+                    "Key": "aws:servicecatalog:source",
+                    "Value": "sagemaker.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:907313819931:dhcp-options/dopt-0ed7372ba2f9f1fca",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-09d8df6ed873e524e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0480422cc6c092518"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-o5nj6jal4ratdkwrsm5qt2hqwm",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a3ec50e5393d2638"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-04f17c53173f3c76b",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0480422cc6c092518"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-031927c7501c1d79e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-07945e4f301191116"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0d86e1a0b82566c61",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0480422cc6c092518"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-05d1e06c520cc2496",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0bd8310a176f5eaf4"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-phj5gbx7ta2ukxzfg55xh2g32a",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-00f8b57ab76215f16"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-uwgglh4bdea3twvbxx53l26wie",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c6a009e70e60a037"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/pornphoj.ke@pt.co.th-005fb0ab26799ee41",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:pornphoj.ke@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d7dccfa60c8e4ea5"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-4vxgvaap3nuwk62pjdjf6yul6a",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0c6a009e70e60a037"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd/a7c62540-113e-11ef-89ca-0ab6227d4e3b",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Patch Manager"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.3"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "92med"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-5adf67eb-5b7b-480c-928b-7436f438ad49/64d47af0-2960-11ee-8b62-02db3a2539a2",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:pg:default.postgres15",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:907313819931:ConfigRecording-Default-Topic",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:association/30999a7d-15d6-4293-9b60-7608da743f1a",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-NameTagRemediation-92med",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd/a7c62540-113e-11ef-89ca-0ab6227d4e3b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "NameTagRemediationDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Patch Manager"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.3"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "92med"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-AddOrRemoveTag-PatchPolicy-92med",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd/a7c62540-113e-11ef-89ca-0ab6227d4e3b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "AddRemoveNameTagAutomationDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Patch Manager"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.3"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "92med"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-084f3e11671f3add5",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a98b036f00e366bc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-q7dnfgqnu35t6ohfjirgcofveu",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-02ab4d488a3300bd8"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-jo3rukclrgbdjnuw6ifajbdazi",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-03a5429d1fd5fb9d2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-gebzxsz4difhtqlt5ap3uhd22a",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-00f8b57ab76215f16"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:og:default:postgres-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:907313819931:pg:default.postgres14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicediscovery:ap-southeast-1:907313819931:namespace/ns-adhqvcki7jdqt56r",
+            "Tags": [
+                {
+                    "Key": "AmazonECSManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-CreateAndAttachIAMToEc2Node-92med",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-PatchPolicy-TA-92med-94a5b542-f94c-45c0-8f90-0526f4b6c9bd/a7c62540-113e-11ef-89ca-0ab6227d4e3b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToEc2InstanceDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Patch Manager"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.3"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "92med"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-0dd3a863-a303-44b3-b97d-4d4b264bf068"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:907313819931:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-0dd3a863-a303-44b3-b97d-4d4b264bf068/a756c070-ad0b-11ee-86e3-06af5534663c"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "QuickSetupEnableConfigRecordingDoc"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0dd55f0d249ca60c9",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d1138f4840b60dad"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/pornphoj.ke@pt.co.th-0e4f14303765b1c1b",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:pornphoj.ke@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0d7dccfa60c8e4ea5"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/banlank.ua@pt.co.th-06d273dce89dabc0f",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:banlank.ua@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0480422cc6c092518"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-vjvublcp6rm6a7huhcasmg3ts4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0bf8e63f1df05213f"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/olan.bu@pt.co.th-4mmcdvcfbo5thkq2ebyjyhrn2q",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:olan.bu@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-03a5429d1fd5fb9d2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0f870411e36d8403e",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a98b036f00e366bc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-08bb4df5d8c7ee451",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0845139bafaa5d92c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0a1b0f6db7530be40",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0845139bafaa5d92c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-00a300e38ac6002ca",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-070b08c7ce9518a5f"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-0ce68dbb45188da48",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-04b72d34ecae9d53d"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:907313819931:session/weerachai.sa@pt.co.th-tice7kfnrqgf33c6ph5oh2o2fu",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA5GQA6GEN6D3IPMOWZ:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a0a23d4cb395f30c"
+                }
+            ]
+        }
+    ]
+}

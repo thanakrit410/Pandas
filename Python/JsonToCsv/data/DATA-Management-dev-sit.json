@@ -1,0 +1,3852 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e/a09e7c80-abdc-11ee-9123-0ab8af812550",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:dataset/silver-max-station-dop-period-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:dataset/max-station-dop-period-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:project/max-station-dop-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:project/max-station-dop-period-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:project/silver-max-station-dop-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-04-accuracy",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:endpoint:7RQIE6L5MZCZPF2WCBVX2O4VRI",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:851725508992:table/InstanceScheduler-MaintenanceWindowTable-13Y6G4NGWBW63",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:instance/i-0fa9c5e436149b0e6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "-Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Stopped By InstanceScheduler 2024/10/07 13:00UTC"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-mdm-secure-agent-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-044f6bcd365a9f08b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0b9c8f38fec387cf9",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0bd0af68de30ef7f3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-08fecbfd2384098cc",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0cdacc99d99cb5966",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0c534cf79726180a6",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-021d6b4b6cb3c8a8c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-01c3390340730b3d8",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "dev-secure-agent-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-06f26f06fe8a1af9e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-no-dhcp-private-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:security-group/sg-0e1afbaea88742900",
+            "Tags": [
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "dev-sit"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-0b425b7522c5f3196",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-03103cfd3abacc4f2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "Private"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-00bda69a700d799ed",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-012560ad5503577d1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:851725508992:targetgroup/dev-sit-msk-b-2-tg/6567ae87d9b4515c",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:851725508992:targetgroup/dev-sit-msk-b-1-tg/77c4704bf2c6a115",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-85d5f454-5fc8-4e5b-8559-c9355e659b50",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/77072212-da7f-400c-80e4-8affd410e3d5",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/330ee480-4cb9-4b75-a2ca-4c0cdc29427b",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/acd28c6d-d588-42bc-b712-8067312716d7",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/a8197af7-dd6a-4b64-bbe2-d1edb23348ba",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1d005667-b4c4-46bb-8437-f20a18dd8396",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/fda7ea14-fb3b-4b30-9027-8fe2b80ddd81",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/78ab398e-0a62-4e32-877b-dfa186b0b29e",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/ec8d6402-2235-4e7b-9243-f3ce3f5fefda",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/f2bde659-5299-40a6-8550-4677c686eb54",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/9e9d3dee-4367-4022-9268-5aaaec3396ed",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4abde958-bf7e-49fd-98f1-0049875e4c5d",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/5fb7bcdf-a2e5-407a-88b5-0e6647847c9a",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-b15ea89b-f016-4b0a-bc59-162c220379d4",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1fa79f31-d26e-4d13-a915-cab3a96e71cb",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/69a039cc-0065-4e03-a53d-8fb966a41f77",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/ef2c20fb-4290-4543-af18-a5931b229715",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4f5b8ffe-9c06-4e59-a3c5-d31cdddeb039",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/3bea7104-94e6-45ea-b031-2cb3a79f5f57",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:varaporn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-e7c177ca-acf9-4c2d-901a-0bdb38cdea5d",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/6906b8c0-d89d-4a01-9e9f-4dd95f69dae9",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/f6c98370-4ffd-4ba7-959b-c632ea97997e",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/5aa2c128-cd3f-44ff-9bb8-ff79b7fdd99d",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kafka:ap-southeast-1:851725508992:cluster/dev-sit-datahub-msk-cluster/bf4fd525-f257-4f3e-a7db-1c2456e36e10-5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:S3_delete_all_object_versions",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/InstanceScheduler/75875c40-b0f7-11ee-b5c5-02d19eb9972e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:851725508992:log-group:/aws/msk/dev-sit-datahub",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:851725508992:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "00cuds99jugmshp1nozl7c2xkw"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/applications/00cuds99jugmshp1nozl7c2xkw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-3384e1cd-f3c7-470a-80dc-54cfce8636f0"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-3384e1cd-f3c7-470a-80dc-54cfce8636f0/65d80780-aca2-11ee-bc92-029412ba7108"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "QuickSetupEnableConfigRecordingDoc"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/nattachai.he@pt.co.th-qgq3jtl4glqadqoytxr7qiip54",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:nattachai.he@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-067c98df3e8d37276"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-n7ox6svcplgecgbc7t7bok6gey",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-067c98df3e8d37276"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/banlank.ua@pt.co.th-w3wysadq54iwqc3qd4yqojl4yu",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:banlank.ua@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-067c98df3e8d37276"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:acm:ap-southeast-1:851725508992:certificate/29453ad6-6c30-431f-9bc0-353a1b96fa49",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:athena:ap-southeast-1:851725508992:workgroup/primary",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-3384e1cd-f3c7-470a-80dc-54cfce8636f0/65d80780-aca2-11ee-bc92-029412ba7108",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:851725508992:alarm:awsec2-i-0fa9c5e436149b0e6-GreaterThanOrEqualToThreshold-StatusCheckFailed",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:job/00-prep-max-station-dop-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:rep:4ASIBHMEZJF25B7J63AWHO54J4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:LS3WBIRYZZB7FNYSA2T43A66D4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:QYWY7L4I7RGKRBGRPHPBO7WIZQ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:WEFI3ZSKCRCZFIAKHFJCEQJ64I",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:851725508992:table/InstanceScheduler-StateTable-7I1KBB6KTBO7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:instance/i-067c98df3e8d37276",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-wms-addon-ec2"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0efe8d49c6d01ddc3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-06b029afbd4db8c6e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0162b986b1b05dde1",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0d06fc6e436cd14d1",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0cafe8b9dcd139be3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-06787108245f0f289",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-vpc-private-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-0464c3f5d0403b31c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-071bb60a23b2af944",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-vpc-private-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-0b969091fe5900a7c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-03d9aec6f2c7febec",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-03394cf858ef3cb46",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "database"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:transit-gateway-attachment/tgw-attach-02636504fee59ee2e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:volume/vol-0baadab08b3b4f569",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-wms-addon-ebs02"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-0468134e109282655",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-0a0b02458eab8a3af",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-07a839b684321a577",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-0af8d3ae21d4dea6d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-0f35277e91b4319e9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-databricks-workspace-vpc-endpoint"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:851725508992:targetgroup/dev-sit-msk-all-eni-tg/973f8b9283b2956b",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:851725508992:rule/InstanceScheduler-SchedulerRule-sfYVB1LZTMxa",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:crawler/dev-centralized-datalake-bucket-data-silver-crawler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/e-02-dev-centralized-datalake-promotiontype",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/a-2-dev-centralized-datalake-push-data-bq-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/64698d28-2871-47c3-9ec5-fb3c0a785851",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/742f7e5a-8cec-4568-8b48-36575e8e8111",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/c84b560b-dcc9-40c1-8f69-f68f09794694",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1603be22-2e77-4580-9887-f8763cedcec1",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/c8126bcb-3c86-4a15-9450-126abd29c406",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/cc92e7bc-1657-4618-9594-b9e269a65dd6",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/45b7b49c-a296-41e5-acd6-befb979974e7",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/ed5c5f6f-6397-4755-a904-63cacdc29cd1",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/48e1fd4d-a6cf-465a-a078-1a23b52bfd40",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/81f9c80a-d29e-4cd5-9ccf-18c5b547a18f",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/8edc147a-e025-424e-858a-a205fdcadfcb",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/22932794-b626-4b55-b247-46d88142ac5b",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-dee61502-e389-4de6-ae9d-5748b73a48d5",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/ac18a904-1695-4c76-bef3-22050bdf13e7",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/36c1eef8-e90c-4a36-8efb-0d3b9bb38704",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/47e987e4-28c7-4a11-b8f6-bffe03346ba0",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4f6a2ec0-013a-48b9-8601-d4b97da1f87b",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/e24434e8-2e63-4ac1-9232-81311c3a28ba",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/0f8fa8f4-9e2d-49d2-8271-88113b5522b3",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/2a1e476f-e5c7-487c-ab8c-09fd2136772a",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/9b358766-9901-4654-8166-fcfebaa2f15e",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/45034e50-ed9a-4863-955e-97145d3cdb76",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/41fed803-28b2-48d7-88b1-70ebdc55f2c3",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/8a364c19-e758-4e3f-8429-7136f3bb5ed1",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/aec0ab9f-ff89-4d3c-a676-cad842d962c4",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/35b81012-009a-406f-9b87-2c6f05ded253",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/063949f1-3c3e-4c92-b785-27ae7d26f6dd",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-sit-mskproducer-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:851725508992:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:851725508992:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "00cuds99jugmshp1nozl7c2xkw"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/applications/00cuds99jugmshp1nozl7c2xkw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:851725508992:group/instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler/00cuds99jugmshp1nozl7c2xkw",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "00cuds99jugmshp1nozl7c2xkw"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/applications/00cuds99jugmshp1nozl7c2xkw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-centralized-datalake-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:851725508992:secret:line-oa-pBTpzk",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:851725508992:secret:AmazonMSK_dev-sit/datahub/msk/msk_admin-h6oedL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:851725508992:secret:AmazonMSK_dev-sit/datahub/msk/msk_user02-3xIuk9",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/nattachai.he@pt.co.th-hkgpcp3gznsqr665lw7vw4nnsa",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:nattachai.he@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-067c98df3e8d37276"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-06f8d16e4a60f948a",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a01f57c182c0920b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-051a06c12c63c4890",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0fa9c5e436149b0e6"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-pmlunlhn7qc2awjxy25fwgm46u",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0fa9c5e436149b0e6"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:dataset/max-station-dop-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:job/silver-max-station-dop-period-tank-sum profile job",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:project/silver-max-station-dop-period-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:recipe/max-station-dop-period-tank-sum-recipe",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:recipe/max-station-dop-period-cash-recipe",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-01-common",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-06-completeness",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-02-validity",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-05-Timeliness",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:ZCKW47ZFC5A4TNP4ZVGBOKDVSQ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:851725508992:table/dynamodb-state-locking",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0b6526f1b1de7f8ab",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-059e170047965735b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0525ac45e0bad03a3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-06750d6785ffcd1b8",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-054678086ea262885",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-06635d010c3808746",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-0938e017d76a0c679",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-no-dhcp-private-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-0c7ff99a760b13257",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-staging-private-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:snapshot/snap-0f1dfe604f64bbdac",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-secure-agent_bak20240311-1421"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-08043b336818307d6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-04459b2be4728cbef",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "SubnetType",
+                    "Value": "Private"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:volume/vol-043b9640abf3ccdbb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-secure-agent-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:volume/vol-0cd881db5e0a6f23b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "WMS"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-wms-addon-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc/vpc-04ed24a6aa471d491",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-01262403c0504a4ab",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-databricks-scc-vpc-endpoint"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:vpc-endpoint/vpce-0a72b871089c5ab11",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:crawler/dev-centralized-datalake-bucket-data-bronze-crawler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:crawler/dev-centralized-datalake-bucket-data-working-crawler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:crawler/dev-centralized-datalake-bucket-data-landing-crawler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:crawler/dev-centralized-datalake-bucket-data-gold-crawler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/e-01-dev-centralized-datalake-function5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/e-03-dev-centralized-datalake-promotion",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/45e5604c-7799-44ea-8b88-03756c3b62ad",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-fb7df1b1-dcaf-4a0d-aca2-c2a69cc598b4",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/8fb5b514-275f-4dd0-a923-97065ef50ab9",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/5a7430da-6422-44a2-9c99-c140bfd1b8b3",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/e5a1457d-c871-4cfe-9fa3-31bc2a721c69",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/f8845eb9-7b55-4440-b32c-f87b4c2f22b4",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/bf355644-82c5-4ad0-880f-b5532bb38443",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/91ed36b9-78cb-4391-bdf1-9413e228862d",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/bc593b1b-d461-4048-b30c-3a0bd1986cb3",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/21d32141-4074-4894-9823-b39b6c62a8fe",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4a3a0e15-a7de-4ffc-ba76-57ae8ccdef31",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/c9ea0683-6cc7-4e8b-90a4-9fcf04656663",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1a958250-ccef-4e6c-a3dd-d3bb1f4729af",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/47a14e67-ca58-48d3-9cdf-585abdece81a",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/f16456a5-0fba-4535-8fd9-8159091e6f37",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/aaaab2d7-ecf0-4e7d-99a6-962833a77421",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4be1f387-bb03-4ffe-ada1-7d667ef5bb45",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/7b1141d5-f93b-4736-989e-ff8f4e4b2cf5",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/2e03f73c-d74f-4170-9f23-f22623248832",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-8051ccbc-9596-457e-ad3e-0aad4be0ae7c",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/615e9cf3-dd0a-4fee-9c02-7881d5259de2",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-7e42b852-78da-47c4-a577-583ce78d4337",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/00d8f71e-c661-42d1-a375-fb47a79a7b46",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/074f26a8-5c68-4353-b3d8-4bb146403a00",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-centralized-datalake-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:851725508992:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/InstanceScheduler/75875c40-b0f7-11ee-b5c5-02d19eb9972e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:851725508992:log-group:/aws/lambda/dev-sit-graphql-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:851725508992:group/AWS_AppRegistry_AppTag_851725508992-instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "00cuds99jugmshp1nozl7c2xkw"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/applications/00cuds99jugmshp1nozl7c2xkw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-sit-athena-query-result-bucket",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "ma-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-sit-datamgmt-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::aws-glue-assets-851725508992-ap-southeast-1",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "ma-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/applications/00cuds99jugmshp1nozl7c2xkw",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-851725508992-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:851725508992:/attribute-groups/0eth5aqh8le3ydohw8e71phpaw",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "attgroup-ap-southeast-1-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:association/28cbe30b-64b6-47f3-a140-25b0ad1c9bad",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e/a09e7c80-abdc-11ee-9123-0ab8af812550"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/nattachai.he@pt.co.th-xscpyusvobfr3psk6spoqykziq",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:nattachai.he@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-067c98df3e8d37276"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-0b7416fd648b270f4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0520ccc0abe4a91f9"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:dataset/silver-max-station-dop-period-cash",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:job/silver-max-station-dop-period-cash profile job",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:job/00-prep-max-station-dop-period-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:ruleset/dq-ruleset-03-consistency",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:databrew:ap-southeast-1:851725508992:schedule/dev-centralized-datalake-scheduler",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:endpoint:YSUUG45F5FC57OYEEY66R2HG64",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:DBSET2ZPKVHOFB4GGJTOT2SS3A",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:3R3VP7PLIJBH3JZC2VCV7B3GQU",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:NH5BUAMP7ZHUPIRBVMHTZZOY4U",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:PV4BZJFM2NHKVL46BDUI7SYBGE",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dms:ap-southeast-1:851725508992:task:OH5JGFS5UVDLXCS36RDIRPR5ZY",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:851725508992:table/InstanceScheduler-ConfigTable-1OFGVD2TR9TT5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:dhcp-options/dopt-0138a6bb840e59579",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-acl/acl-0b26edb5eade7d7e1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "dev-sit-datamgmt"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Terraform",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-acl/acl-0043a960bbb7f88b1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-staging-network-acl"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0e945f7bf490a73a4",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-04055d34a13cc2540",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0e70f3cc876507dd1",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0bb27d77f8a6a8be3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "dev-wms-addon-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-096ff2962569dac1e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-07408872dca4a25fe",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0d04b95b645ed85a7",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-0d3651e1137f9fe63",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:network-interface/eni-04a063fe4418274a5",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Data-Management ENI"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-03016422e48987e46",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:route-table/rtb-0ab1728a540cfd393",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:snapshot/snap-0d35992f3488a0d60",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MDM"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-secure-agent_bak20240311-1445"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-0c1b8557c030010f8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:851725508992:subnet/subnet-0aaefd878219d848c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-datamgmt-staging-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:851725508992:loadbalancer/net/dev-sit-msk-internal-nlb/d3ae3fa10309a4ca",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/e-02-dev-centralized-datalake-function45-copy",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/e-02-dev-centralized-datalake-function45",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:job/a-2-dev-centralized-datalake-push-data-bq-tank-sum",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/a9643c96-c608-4d4b-88b1-d7fb4478fde5",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/b623927c-7d1f-47f5-958e-2d3f9617bab5",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1a64162e-7c80-4445-a29e-45641dd91965",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/9552c684-ee4e-4888-9a51-46d6919ad6ea",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/ef5ec82f-d659-4505-a961-51a1ec8dedac",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/2ffc9272-942b-4593-bf79-c92013e49e42",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/17c5b174-5ad4-4ef5-b59c-927733bc1718",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/6a733706-683e-4573-9667-6ecb5ea8d4fa",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-2209399b-3eb5-410c-be61-02a795b954b0",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/32a20903-5a50-4edb-8de5-f1ff53d888d6",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/0983f3be-7cf4-4d0e-89d4-4216c1b648ec",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/glue-studio-datapreview-61f52512-a375-4108-8891-e0580e0945ae",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "assumed-role/AWSReservedSSO_PowerUserAccessCustom_335628f8c8519f54/supakorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/42562a22-1cfc-4815-a340-be43d745966b",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/1d3402f6-af49-4d0d-a0b3-561cbecf0d8b",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/5361affd-f5cb-45fe-ac3c-528657507a66",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/5f7acd52-0565-4509-ae04-2a1320dba728",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/4b229884-a39c-4b81-a7c3-ab9ed0a5d392",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:khanisorn@inteltion.com"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:glue:ap-southeast-1:851725508992:session/8ec8a283-066e-40d1-8fb2-9bd61b9bd315",
+            "Tags": [
+                {
+                    "Key": "owner",
+                    "Value": "AROA4MTWL4GAOXZSTGKFR:premrudee.ji@pt.co.th"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:851725508992:key/eabf7f1f-ad79-47a9-93b5-3d7f4d207357",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:851725508992:key/c3952bb6-faa8-4f29-a4fe-cb14f8ac93d2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-sit-graphql-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-centralized-datalake-maxpos-bi-storage-function",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-centralized-datalake-standardized-bronze-to-silver-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-centralized-datalake-lambda-landing-to-bronze-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:851725508992:function:dev-centralized-datalake-assignment-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Centralized-Data-Lake"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "Centralized-Data-Lake"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:851725508992:log-group:/aws/lambda/dev-sit-mskproducer-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-sit-databricks-storage-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "mig88F1X7TKSJ"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:851725508992:secret:AmazonMSK_dev-sit/datahub/msk/msk_user-crAvQp",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Data-Hub"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:851725508992:secret:AmazonMSK_dev-sit/datahub/msk/msk_user03-zWYpPc",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:851725508992:InstanceScheduler-InstanceSchedulerSnsTopic-iZ7e2HTT0zCL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/InstanceScheduler/75875c40-b0f7-11ee-b5c5-02d19eb9972e"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e/a09e7c80-abdc-11ee-9123-0ab8af812550"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e/a09e7c80-abdc-11ee-9123-0ab8af812550"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstallAndManageCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:851725508992:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-2b04f016-6820-4dd4-8b3d-9554d03b750e/a09e7c80-abdc-11ee-9123-0ab8af812550"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-0fb2383e0e4380fe6",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0a01f57c182c0920b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:851725508992:session/weerachai.sa@pt.co.th-01779f76833639470",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA4MTWL4GACNNJDJMGH:weerachai.sa@pt.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0520ccc0abe4a91f9"
+                }
+            ]
+        }
+    ]
+}

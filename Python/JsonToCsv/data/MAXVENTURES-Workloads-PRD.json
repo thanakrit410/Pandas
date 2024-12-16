@@ -1,0 +1,3776 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:352de1a9-747e-4a59-8846-5cba1695dccd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:a7c01e03-b6e0-480c-b8af-72fe0403aba6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:2a06e534-404e-499d-8a71-a2a0411e1d92",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:2a66e4cd-e434-47aa-b414-bf58f04bd506",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:33ba5ba8-395a-4367-a89f-2b1cd3444b22",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:d5dfac5c-479d-4f2e-bd2b-7481dc539550",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:96eaa4e9-47b4-4dd9-a0cf-cb67846432da",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:bdd1b797-cf79-4262-ae6c-0f50629d6359",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:713703f6-2324-4dc1-b0b8-a0b654db5cb0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:39102304-19e7-49f5-9674-cd4678d3b108",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_DISK_UTILIZATION_CRITIAL",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_MEMORY_UTILIZATION_WARNING",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_CPU_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_HTTP_CODE_5XX_COUNT_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:instance/i-0b711746720929a76",
+            "Tags": [
+                {
+                    "Key": "DailyBackup",
+                    "Value": "7Copies"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:instance/i-03d335f9528fa2516",
+            "Tags": [
+                {
+                    "Key": "DailyBackup",
+                    "Value": "7Copies"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-acl/acl-0e5c40a7cb291b038",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0d89848cce3df48cd",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-03dfe702de04858c8",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-instance-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-07c906b439a52cabc",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0e7469373d1a64476",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-instance-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-07eab43597b084948",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-02d89c2743467fdc3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-0dffed3bddc581b04",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-08de0a4f2871a5cea",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-09a4bb0111ead2314",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-subnet-ap-southeast-1b"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-0dbfcbf81a0e4486b",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-subnet-ap-southeast-1b"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-04d948dd07453260a",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-subnet-ap-southeast-1c"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:transit-gateway-attachment/tgw-attach-0c0477264d9839800",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:volume/vol-05760ea270a114613",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-instance-ebs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc-endpoint/vpce-067829a2c59d6d95a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc-endpoint/vpce-0f4173b6402677b1c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc-endpoint/vpce-0bfa5f00d0dcb389b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc-endpoint/vpce-056c9e94a30cbd9ee",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:task/PRD-maxventure-ecs-cluster/8572c14924144e3f811dd9c785e3dd41",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "PRD-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "PRD-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:task/PRD-maxventure-ecs-cluster/f1fd4daf96a44f918cf83c778c0787e8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "PRD-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "PRD-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:task-definition/PRD-maxventure-web:2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:992382481933:listener/app/prd-maxventures-alb/0d64c58126ab5e8b/05b9d8e698df0c14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:992382481933:targetgroup/PRD-maxventures-tg/7de23bfcbac48104",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-08-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-16-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-11-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-25-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-30-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-06-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-12-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-12-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:992382481933:secret:prd/maxventure/mysql-K0z90v",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_DISK_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_CPU_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_CPU_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250/f411e430-339d-11ef-ae3d-0ae00ad5d943"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:session/minh.le@cloud-kinetics.com-tqzfjpu6du4bewyr4jdxgc4uxe",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA6ODU26YGWPKQGNVWE:minh.le@cloud-kinetics.com"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-007ba4fb3f0290f4b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:c0ad6220-f700-4710-9407-d6c3563d40d2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:469136d2-2c3a-4c05-8995-04007217b384",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:30a3f684-92b9-4bd4-97e0-d8f804765357",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:6ea5a131-1993-4346-8950-08b20742d1e1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:cec364f9-264b-4efe-b0b6-bebbe06a4f10",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:7ad8d137-2dab-488b-a738-57a18f119b71",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:9a32e076-a82c-4fc5-ac21-5b3ab260002d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_DISK_UTILIZATION_CRITIAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_HEALTHY_HOST_COUNT_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_MEMORY_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_MEMORY_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:TargetTracking-service/PRD-maxventure-ecs-cluster/PRD-maxventure-web-ecs-service-AlarmLow-ddfe97e5-ced1-46e2-9472-bde78a5dd607",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_FREE_STORAGE_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:dhcp-options/dopt-012e6d613410f1c85",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-02b8f885b7bccce4b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-tgw-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-04d05e9cbc75e7fd3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0d0dbb922d1981ac7",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0f5a9e2a08d6591e1",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-tgw-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-07729a5da89747640",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "PRD-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "PRD-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-0a801b067d842935a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-0de61fd897b644866",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:security-group/sg-0aa6f4a81e64a49a4",
+            "Tags": [
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-042d0f6a84ba72a84",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-subnet-ap-southeast-1b"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-008e0df52bc2c9af7",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-subnet-ap-southeast-1a"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:transit-gateway/tgw-02e91bbb182ea6566",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc-endpoint/vpce-0bb413b6c6f1a7a9d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:992382481933:loadbalancer/app/prd-maxventures-alb/0d64c58126ab5e8b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:992382481933:function:PRD-MAXVENTURES-Line-Notify-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:992382481933:log-group:RDSOSMetrics",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:db:prd-maxventure-db",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-09-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-14-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-23-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-15-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-20-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-27-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-18-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-19-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-09-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-11-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-17-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-26-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-03-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_HTTP_CODE_4XX_COUNT_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_DISK_UTILIZATION_CRITIAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_MEMORY_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_CPU_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_HTTP_CODE_5XX_COUNT_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_FREE_STORAGE_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_CPU_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:d3b44be3-644e-42a0-8cae-52cfddb76924",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:d73e3985-4a31-43e2-9eb4-a7592ecdad67",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:d2208e0a-7902-4e08-9f6c-cbf86d52191c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:392e2afe-8ccc-44b6-a62b-18f039a7d2b0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:aefbed39-1c22-4953-9303-bf48b9eb35f3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:76be45af-08a2-406a-a030-18c1c1a6282e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:92cc3ade-7243-43ee-bf4f-cd0acdfce559",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:440abdec-fa6a-422e-8f9a-863b6c95f5c9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-8a5eec58-3e6a-4267-94e5-0f80fb74668f/c680da30-339d-11ef-930f-0642afd923ad",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_CPU_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_HEALTHY_TASK_COUNT_CRITICAL",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_MEMORY_UTILIZATION_CRITICAL",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_MEMORY_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_DISK_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_DISK_UTILIZATION_WARNING",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-02134b92bc1acb028",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-tgw-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0732b4b77efbee3cf",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0d52d4b79714b2ac3",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-073e429d2a5d1f3f6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-091305941234c660d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-01376afc0b4aa7856",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-07dce82326424a827",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-subnet-ap-southeast-1c"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:vpc/vpc-02484fe1245290728",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:service/PRD-maxventure-ecs-cluster/PRD-maxventure-web-ecs-service",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:task-definition/PRD-maxventure-web:1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:task-definition/PRD-maxventure-web:3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:992382481933:log-group:/aws/rds/instance/prd-maxventure-db/error",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-10-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-29-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-22-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-13-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-01-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-10-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-07-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-05-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-28-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-13-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-15-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::prd-maxventure-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_MEMORY_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_FREE_STORAGE_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_DISK_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_CPU_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:association/e293d833-dedd-49d5-9c3c-c2df7e3d0e58",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250/f411e430-339d-11ef-ae3d-0ae00ad5d943"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:8d89fc80-7c5f-41c9-9740-ecb0db5da157",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:fa8a3a66-b42d-47ca-9084-97b0b72e541b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:2f6c3b7a-dd26-42d0-8696-b8d2ede8f2c4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:864c51e1-ee1c-4b4f-99de-cf8aa35228bc",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:f6f36f97-2cc7-4d50-ad2a-2f38cf3dade7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:bd5c2c9a-bd8c-4cb5-998e-036f7fe4e85c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:e060382f-d55a-40f4-a438-fb286ed9e0cd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:281f7f02-a71f-440b-879a-c2c2771d5c0f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:fa4ef2f4-2136-4124-8e1e-85a7ad0fb4b8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:992382481933:recovery-point:54e52d26-f6af-471f-81e8-3abddf9b1e5f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250/f411e430-339d-11ef-ae3d-0ae00ad5d943",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:TargetTracking-service/PRD-maxventure-ecs-cluster/PRD-maxventure-web-ecs-service-AlarmHigh-c3932e01-227b-4707-8f35-032a6c483be4",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_CPU_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_CPU_UTILIZATION_WARNING",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_ECS_CPU_UTILIZATION_CRITICAL",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_CPU_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_HTTP_CODE_4XX_COUNT_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_MEMORY_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:992382481933:alarm:PRD_MAXVENTURES_RDS_FREE_STORAGE_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-09826c9a3e4e878fb",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-vpc-endpoint-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:network-interface/eni-0368a3d0df9e49be0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "PRD-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "PRD-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-00bf1706fc2a9f517",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-00d9973f40c0e2a8d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:route-table/rtb-0293c471e9fcd65aa",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastrure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-06f1867bcf8a4b4f5",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-subnet-ap-southeast-1a"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-08f8d2604e3e0e993",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-tgw-private-subnet-ap-southeast-1c"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:subnet/subnet-0a5362ecb98831285",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventures-no-dhcp-private-subnet-ap-southeast-1a"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/PRD-maxventure-vpc",
+                    "Value": "shared"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:992382481933:volume/vol-09492d8b00257d954",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-instance-ebs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:992382481933:cluster/PRD-maxventure-ecs-cluster",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "Infra-ECS-Cluster-PRD-maxventure-ecs-cluster-fa9f1a48"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/Infra-ECS-Cluster-PRD-maxventure-ecs-cluster-fa9f1a48/84332520-70c4-11ef-bd6a-02fc65a88fd5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ECSCluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticfilesystem:ap-southeast-1:992382481933:file-system/fs-05409967ffe04e93d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "aws:elasticfilesystem:default-backup",
+                    "Value": "enabled"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "PRD-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:prd-maxventure-db-202411112102",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-14-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-21-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-02-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-11-24-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:992382481933:snapshot:rds:prd-maxventure-db-2024-12-04-18-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "prd-maxventure-db"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicediscovery:ap-southeast-1:992382481933:namespace/ns-6fnslvix36t3jxs6",
+            "Tags": [
+                {
+                    "Key": "AmazonECSManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_MEMORY_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_HEALTHY_HOST_COUNT_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_CPU_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_MEMORY_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_MEMORY_UTILIZATION_NORMAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_MEMORY_UTILIZATION_WARNING",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:992382481933:PRD_MAXVENTURES_RDS_FREE_STORAGE_UTILIZATION_CRITICAL",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "PRD"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250/f411e430-339d-11ef-ae3d-0ae00ad5d943"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-8a5eec58-3e6a-4267-94e5-0f80fb74668f"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-8a5eec58-3e6a-4267-94e5-0f80fb74668f/c680da30-339d-11ef-930f-0642afd923ad"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "QuickSetupEnableConfigRecordingDoc"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:992382481933:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-917f34dc-71e0-4222-b4a6-3be4153d4250/f411e430-339d-11ef-ae3d-0ae00ad5d943"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstallAndManageCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:session/chitavorn.bh@unit.co.th-vivx5cp2vylhvlazexa64ckz64",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA6ODU26YGRMEMFCQHD:chitavorn.bh@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-035f46b1973bf6c19"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:992382481933:session/minh.le@cloud-kinetics.com-b4v5sl2hfgsdsykpwzuwc7ifaq",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROA6ODU26YGWPKQGNVWE:minh.le@cloud-kinetics.com"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-007ba4fb3f0290f4b"
+                }
+            ]
+        }
+    ]
+}

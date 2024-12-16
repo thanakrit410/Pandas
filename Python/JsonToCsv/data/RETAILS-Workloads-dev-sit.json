@@ -1,0 +1,4528 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-6319a83d-3149-4be7-b25c-b67be8d495b0/4cea65e0-294b-11ee-a018-0a5252de8d68",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln-AlarmHigh-42a52207-3989-4d20-ab4e-19d742d88089",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln-AlarmLow-757072e6-657d-440e-bd8d-146f8cd9c8a9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln-ProvisionedCapacityHigh-53ed062a-ba17-4721-8808-f8d4f3b9799a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-ord-schedule-AlarmLow-68a64df4-e63f-4d59-8e97-1acfcebf4ac5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-tph96t",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bf8n8p",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-qslizg",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-kxe2ts",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-vsmvhu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-gebjtk",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ci4zky",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-egmnzl",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-mvklic",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-gsjheh",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-pwdsyc",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-9dusvd",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-k7ynah",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-9uxtvv",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-mldfgv",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-waexot",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-6ym7i0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-hkwk0l",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-jtzzt9",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bibhne",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-497wxb",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-my2bfw",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-5dysbb",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-okv8na",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-jfjobo",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-gzsray",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ctl3sx",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ehirwv",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-sgxk9t",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-r8wqd0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-vmeflj",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-nvfzgu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-i5k4lt",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-qdieaw",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-otdgtq",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-uynype",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-630ljn",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-yqx1fd",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:077621725271:table/InstanceScheduler-MaintenanceWindowTable-1I8LVFZNY9SE7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:077621725271:table/InstanceScheduler-StateTable-CYNEWXF1PU7M",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:instance/i-0ef1d0fb5c63277fb",
+            "Tags": [
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:version",
+                    "Value": "1"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/enabled",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-ec2"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/dev-sit-punthai",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:autoscaling:groupName",
+                    "Value": "eks-dev-sit-punthai-eks-node-group-QweVJp6v-0cc9aa3f-b4e9-c098-b095-64c63bc1845b"
+                },
+                {
+                    "Key": "aws:ec2:fleet-id",
+                    "Value": "fleet-29bcef15-70ae-ee07-a43a-032a09f87de6"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-punthai",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:id",
+                    "Value": "lt-056adf87020a45113"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-acl/acl-04d15ad7980ca1f7b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-staging-network-acl"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-acl/acl-06c593c9d85ecb432",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0e12a0451b5f750ff",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-05213de50e9855f80",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0d26599c20f72aa23",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0a5898d8929793186",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-0dc791dd6fca7d29e"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-078e3fe76bcef0ce9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-0614dd70c2918af0c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-072ab68dcda8d8f07",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-0d155bbdc3ff827b2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-0e49ee47dc6632948",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "ManagedLBSecurityGroup"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-01f7ac91e37d5ef7d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-09426ae52fd1a14f4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-00919b2a72a4a2ce8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-punthai",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-020afb0cf051e7eb3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-0eafbdeada2beb07b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc/vpc-0887c8347c84ed183",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-028b64a75586fd58b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-0bf15cc569dedeba6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-0c0aa97cf49b10682",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:077621725271:listener/net/dev-sit-punthai-nginx-nlb/f4d2b45534f578c1/7cb3819d3fe0a590",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "443"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:077621725271:listener/net/dev-sit-punthai-nginx-nlb/f4d2b45534f578c1/33f5f01921646999",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "80"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:077621725271:targetgroup/k8s-ingressn-ingressn-edb4587382/63a3acfd5d383499",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal:443"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:077621725271:key/d3cc7e41-e6eb-424a-a9ce-832ba45bb022",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:077621725271:function:dev-lineoa-sendnotify-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-11-01-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/11 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-11-29-01-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/29 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-09-01-10",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/09 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:077621725271:group/AWS_AppRegistry_AppTag_077621725271-instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "04qcrhdvl69yhgm0ouzb2yi4qg"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/applications/04qcrhdvl69yhgm0ouzb2yi4qg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::dev-sit-punthai-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/attribute-groups/072uofqedm1b2jrhxtm30h83vv",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "attgroup-ap-southeast-1-InstanceScheduler"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:077621725271:InstanceScheduler-InstanceSchedulerSnsTopic-mVHFpnbekYBy",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/InstanceScheduler/03bec2f0-8ad3-11ee-b369-028ffebaa1d0"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-receiver-ProvisionedCapacityHigh-50d98549-b0a5-474c-bb0a-c118d8dd7425",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-receiver-AlarmLow-067fde42-1f16-47dd-aeff-58673461b32d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln/index/po_number-so_item-index-AlarmLow-fb49841b-4b32-4f0d-b7e6-555659b2fbea",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln-ProvisionedCapacityLow-e6cb3be6-4565-4f63-a07f-7364d7b34551",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-zs2unt",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-sxuqf9",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bazihc",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-smwur1",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-jya2zk",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-atxq5o",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bv6uh1",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-czvjlp",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-blyxdw",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-4nkbzb",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-g1nqhh",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-yzoaxd",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-c4aieh",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-9dtxjt",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-oimj5c",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-cqdpmm",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-0ohsw0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-fukmad",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-a0wfzs",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-0tkyan",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-2sy2hx",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ywhacb",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-qhyaie",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-f3l9ed",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-lvqrj8",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-6jtgyz",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ova6uc",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-elfge0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-vavss2",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-kht6ak",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-4npgxr",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ee66vf",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-em8m1j",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-d5neg3",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-7qfsgp",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bdsgpd",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-lfanhr",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-u7nfl2",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-47eksv",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ksvyly",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0ef7926694a67e402",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-02846c9206519d54e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-07fd49bc03ae1eb78",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0a3ab77a98df60c11",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-07158e5034905bfa1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0dbb8cd1df2f62530",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-053b0d9f207ed609b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-staging-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-04e617753c73e100c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-0721657ab7e90e304",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-00308c13dedc30833",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks_worker_sg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-079d7601d21856bcf",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-punthai",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "eks-cluster-sg-dev-sit-punthai-101886850"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-0cff9bd541b0470be",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-staging-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-050f4038cb336ae31",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-0eb29a374d1d665d0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-punthai",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:transit-gateway-attachment/tgw-attach-0dda9e0ab08cf51fd",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:volume/vol-0c28feb9a8d0f7709",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:077621725271:loadbalancer/net/dev-sit-punthai-nginx-nlb/f4d2b45534f578c1",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "LoadBalancer"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:077621725271:rule/dev-lineoa-sendnotify-rule",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:077621725271:function:dev-lineoa-crunching-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:077621725271:log-group:/aws/lambda/dev-lineoa-sendnotify-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:db:dev-retraining-db",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:og:default:sqlserver-web-15-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:og:default:postgres-15",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:og:mssql-to-s3",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:pg:default.postgres15",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-02-01-16",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/02 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-11-01-11",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/11 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-11-25-01-11",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/25 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-11-25-01-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/25 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-09-01-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/09 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:subgrp:rds-private-subnets",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:077621725271:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "04qcrhdvl69yhgm0ouzb2yi4qg"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/applications/04qcrhdvl69yhgm0ouzb2yi4qg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:077621725271:group/instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler/04qcrhdvl69yhgm0ouzb2yi4qg",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "04qcrhdvl69yhgm0ouzb2yi4qg"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/applications/04qcrhdvl69yhgm0ouzb2yi4qg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:athena:ap-southeast-1:077621725271:workgroup/primary",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-4e459225-d1a6-4a38-9e0e-0dd6d3306d45/f9addaa0-295a-11ee-bd91-0ab700137a06",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/eksctl-dev-sit-punthai-addon-iamserviceaccount-kube-system-aws-load-balancer-controller/bac5eb50-4ca2-11ee-853f-02e6a7271abc",
+            "Tags": [
+                {
+                    "Key": "alpha.eksctl.io/cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eksctl.cluster.k8s.io/v1alpha1/cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "alpha.eksctl.io/iamserviceaccount-name",
+                    "Value": "kube-system/aws-load-balancer-controller"
+                },
+                {
+                    "Key": "alpha.eksctl.io/eksctl-version",
+                    "Value": "0.154.0"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln/index/po_number-so_item-index-ProvisionedCapacityLow-a66688ca-1a42-4046-b7fe-566edc038370",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln/index/po_number-so_item-index-AlarmHigh-593f8da5-c933-4ebe-815f-3e51c67d9dab",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-bukaiq",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-pg7i4s",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-poy5vy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-7j5ndh",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-n33yoc",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ntlmhk",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ixtgoy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-y0ztna",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-midgyf",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-rgrni5",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-2d9cj1",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-6c7k1v",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ui1eya",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-wmqw0d",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-73jpgx",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-4v0zkl",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ml46y8",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-galwlh",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-n3lr9t",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-5ardiy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-xxkahy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-v9napf",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-hinj2x",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-pdnwpw",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-hpga2t",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-aqid7p",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-qqefkg",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-k8cgel",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-kv5jgi",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-l41ndl",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-sa2nkc",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ayms48",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-kcw0ov",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-gcvbjj",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-4rvov4",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-z1qb6l",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:instance/i-0dc791dd6fca7d29e",
+            "Tags": [
+                {
+                    "Key": "aws:eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:version",
+                    "Value": "1"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/enabled",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-ec2"
+                },
+                {
+                    "Key": "k8s.io/cluster-autoscaler/dev-sit-punthai",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:autoscaling:groupName",
+                    "Value": "eks-dev-sit-punthai-eks-node-group-QweVJp6v-0cc9aa3f-b4e9-c098-b095-64c63bc1845b"
+                },
+                {
+                    "Key": "aws:ec2:fleet-id",
+                    "Value": "fleet-2b36e59f-7806-e40f-a410-a300c48a03f0"
+                },
+                {
+                    "Key": "kubernetes.io/cluster/dev-sit-punthai",
+                    "Value": "owned"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "aws:ec2launchtemplate:id",
+                    "Value": "lt-056adf87020a45113"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:launch-template/lt-056adf87020a45113",
+            "Tags": [
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-05cde42eb50a51d89",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-040be7dd56e4b3698",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-0ef1d0fb5c63277fb"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-04b30f24155db1e59",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0cc1ab6270c499446",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0011c14f5b8079194",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-030c4b29fe3de87da",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-0f0ca0b516d4db506",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-092b91402115f181f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai-dev-sit"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-06d9e1ce1e2ad70fe",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-0c7cd39a5f3a534e8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/resource",
+                    "Value": "backend-sg"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:volume/vol-0e0c78cd066d5d017",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "ODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "eks:cluster-name",
+                    "Value": "dev-sit-punthai"
+                },
+                {
+                    "Key": "eks:nodegroup-name",
+                    "Value": "dev-sit-punthai-eks-node-group-QweVJp6v"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks-node-ebs01"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-08977d941e44c2ab0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-08aa08534602472c9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:vpc-endpoint/vpce-093dc6c4472ef8220",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:077621725271:targetgroup/k8s-ingressn-ingressn-1626fb3fc1/9cb594f1ce58588e",
+            "Tags": [
+                {
+                    "Key": "service.k8s.aws/stack",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal"
+                },
+                {
+                    "Key": "service.k8s.aws/resource",
+                    "Value": "ingress-nginx-internal/ingress-nginx-internal-controller-internal:80"
+                },
+                {
+                    "Key": "elbv2.k8s.aws/cluster",
+                    "Value": "dev-sit-punthai"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:077621725271:rule/AutoScalingManagedRule",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:077621725271:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/InstanceScheduler/03bec2f0-8ad3-11ee-b369-028ffebaa1d0"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:077621725271:log-group:/aws/lambda/dev-lineoa-crunching-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:077621725271:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:pg:modified-postgres-15",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-13-01-16",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/13 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-02-01-12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/02 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-04-01-16",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/04 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-11-29-01-12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/29 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-16-01-10",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:077621725271:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "04qcrhdvl69yhgm0ouzb2yi4qg"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/applications/04qcrhdvl69yhgm0ouzb2yi4qg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:077621725271:secret:dev/retraining/mssql-G44VJn",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-Training"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:077621725271:/applications/04qcrhdvl69yhgm0ouzb2yi4qg",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v1.5.3"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-077621725271-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/InstanceScheduler/03bec2f0-8ad3-11ee-b369-028ffebaa1d0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-receiver-ProvisionedCapacityLow-239940ac-ceab-48f0-b278-32598508159a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOa-ord-tln/index/po_number-so_item-index-ProvisionedCapacityHigh-a9ca5fde-43fa-4d0f-abd7-3b2a48f53407",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-ord-schedule-AlarmHigh-703c6fb1-ea19-4dc8-ba77-e7a01ed7d1b2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-receiver-AlarmHigh-99003285-510d-4024-8e16-89a64cf9ca04",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-ord-schedule-ProvisionedCapacityLow-a5250519-ed4e-4d80-b631-209a61431042",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:077621725271:alarm:TargetTracking-table/PUN-LineOA-ord-schedule-ProvisionedCapacityHigh-b873725d-4c3e-4ac5-854a-6d1fa47833c6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-zdifdu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-pd4xsu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-zjzvwt",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-unxsfy",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-jriutx",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-leenza",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-isv9wg",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-h7bndo",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-otyyum",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-qykev1",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-kr30xr",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-gq9fby",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-62wyoj",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-3ckk01",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ln0mxu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-futgbj",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-yxqlco",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-4m72id",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-yrfrei",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-3sc3th",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-8hjmj2",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-0xg7tq",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-aghefq",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-9sl7tr",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ckf8el",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-yu1nfx",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-vipdkg",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ibg6hu",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-iqb5m0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:config:ap-southeast-1:077621725271:config-rule/aws-service-rule/securityhub.amazonaws.com/config-rule-ahrn2z",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:077621725271:table/InstanceScheduler-ConfigTable-1FMJ0FPRN4YXG",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:dhcp-options/dopt-0b5715ef98d81b942",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:launch-template/lt-0dcb5990a7dc454d1",
+            "Tags": [
+                {
+                    "Key": "AWSApplicationMigrationServiceManaged",
+                    "Value": "mgn.amazonaws.com"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-073b9e6616b34004a",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0af9fabfe2dd5b4ba",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-0f61e7ca5fffacd4c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retail-eni"
+                },
+                {
+                    "Key": "Projetc",
+                    "Value": "Infrastructure"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:network-interface/eni-092db1593eb05cdd9",
+            "Tags": [
+                {
+                    "Key": "node.k8s.amazonaws.com/instance_id",
+                    "Value": "i-0dc791dd6fca7d29e"
+                },
+                {
+                    "Key": "node.k8s.amazonaws.com/createdAt",
+                    "Value": "2024-12-16T01:01:02Z"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:route-table/rtb-0ed59d9518dd80620",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-0f614c7d297e9b4d0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-095f9c66542b93ecb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-0342c2aa31f3dc726",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:security-group/sg-0459ca06ffbc61275",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "punthai"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-punthai-eks_cluster_sg"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-0eeec3945ef908bec",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:077621725271:subnet/subnet-0f3f206b07ab0d83e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "dev-sit-retails-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:077621725271:addon/dev-sit-punthai/aws-guardduty-agent/90c86fc3-5b13-f3d2-869e-7fc527550a84",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:eks:ap-southeast-1:077621725271:cluster/dev-sit-punthai",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "alpha.eksctl.io/cluster-oidc-enabled",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:077621725271:rule/InstanceScheduler-SchedulerRule-u3zhEeEyCmef",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:077621725271:rule/dev-lineoa-crunching-rule",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Line-OA"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:077621725271:key/d7243ea8-a54c-4e93-a5a4-723c7ad4252e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:077621725271:key/1221e1cc-71eb-4a65-96c3-a63eb6434b28",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:077621725271:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:077621725271:stack/InstanceScheduler/03bec2f0-8ad3-11ee-b369-028ffebaa1d0"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:db:dev-pun-lineoa-db",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:og:default:sqlserver-se-15-00",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:pg:default.sqlserver-web-15.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:pg:default.sqlserver-se-15.0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-11-27-01-14",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/27 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-04-01-11",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/04 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-11-27-01-12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/11/27 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-13-01-12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/13 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-pun-lineoa-db-2024-12-06-01-12",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/06 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:dev-pun-lineoa-db-copied-snapshot",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Punthai-Line-OA"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-16-01-16",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/16 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:077621725271:snapshot:rds:dev-retraining-db-2024-12-06-01-16",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Re-training"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024/12/06 01:00UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:077621725271:secret:dev/queue/postgresql-XdJ4Ug",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Queue"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:association/9379e156-97d0-4064-a215-1e14be057840",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:077621725271:parameter/Solutions/instance-scheduler-on-aws/UUID/03bec2f0-8ad3-11ee-b369-028ffebaa1d0",
+            "Tags": [
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3330 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:bc9bcc20-bba5-4a42-9dda-c3cb41bd1765",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:ecb0896f-7a1c-4048-b6dc-ecbe3159cb36",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:ee54a4ee-8e27-4796-988d-f433866f5d68",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:59284a69-1901-49ea-901f-6d107775fbc8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:54397be3-49cb-47f8-abd3-7d4730e51317",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:024824fb-1ca0-4cb4-b877-5a60aec44d87",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:637423506687:alarm:TargetTracking-Infra-ECS-Cluster-uat-maxventure-ecs-cluster-e02bc970-ECSAutoScalingGroup-BmY4GRSyYlCY-AlarmHigh-3206c13c-eea8-4d28-acad-b5c05d53c522",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudwatch:ap-southeast-1:637423506687:alarm:TargetTracking-Infra-ECS-Cluster-uat-maxventure-ecs-cluster-e02bc970-ECSAutoScalingGroup-BmY4GRSyYlCY-AlarmLow-ebf4bdf6-34b9-446a-81ef-947c748688f3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:637423506687:table/InstanceScheduler-StateTable-11VQ1D0COFFTS",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-00dcbc7f83a61f17e",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1b-eniuat-maxventure-https-az1b-eniuat-maxventure-vpc-endpoint-https-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0fd97b3f3dfbe2ba4",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1b-eniuat-maxventure-vpc-endpoint-https-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0829b803b5506db32",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1a-eniuat-maxventure-vpc-endpoint-https-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0e6c2d9230470fdc2",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-tgw-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-060bf425f7579a3a0",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-vpc-endpoint-https-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:security-group/sg-0b92cec36a4d9ad18",
+            "Tags": [
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-0b564686fd7af85fd",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-no-dhcp-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-0c1a7d9f21984c699",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task/uat-maxventure-ecs-cluster/ca79af931a4d440aa33047e30a1a13d2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:10",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:637423506687:targetgroup/uat-maxventure-web-tg/1b5077fd95233357",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:637423506687:rule/InstanceScheduler-SchedulerEventRuleDD9A6B32-xE6ejNzdiReQ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-ASGHandler0F6D6751-Y7GSuMfgQ9Ud",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGHandler0F6D6751"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:ecs-scheduler-autostart-autostop-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-ASGSchedulerASGOrchestrator6629B-5FppR7PZOG0C",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGSchedulerASGOrchestrator6629B72C"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-MetricsUuidGenerator172A04DB-hrDOKUYwacbt",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "MetricsUuidGenerator172A04DB"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-ASGHandler0F6D6751-Y7GSuMfgQ9Ud",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGHandlerLogGroupA8EE11F3"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-MetricsUuidGenerator172A04DB-hrDOKUYwacbt",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "MetricsUuidHandlerLogGroupF41CCF90"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-05-20-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-05 20:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-02-01-09",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-02 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicediscovery:ap-southeast-1:637423506687:namespace/ns-cbnlrngcyksc3cak",
+            "Tags": [
+                {
+                    "Key": "AmazonECSManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:association/37fcd643-7f56-406f-8447-8f1c2ac4d043",
+            "Tags": [
+                {
+                    "Key": "GuardDutyManaged",
+                    "Value": "true"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/InstanceScheduler-SpokeDeregistrationRunbookFF4A7B49-l8f3IdHNVkcN",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "CdkGenerated",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SpokeDeregistrationRunbookFF4A7B49"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:xray:ap-southeast-1:637423506687:group/Default",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:9beaa706-3bbf-49b4-8fa6-51e77b9ec1b8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:5cd9a342-5f98-427d-87a6-972dced8ad07",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:e29c5eae-c401-4b67-b786-69858715e254",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:a4dd05b5-1e91-4cdb-b8f7-cc8b56d1dcfd",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:89d60ee9-120e-4fca-93ac-5ea266246c94",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:0bbccdd0-c441-418d-bcc9-5bc4a351e7be",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:d31ee1f0-af41-4c34-bf9f-2d3175f44d37",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-7413d311-6e23-4852-a364-2d66f19f6458/c67408f0-339d-11ef-b09b-026256214601",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede/f4022cc0-339d-11ef-b880-02cd99c7875b",
+            "Tags": [
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:637423506687:table/InstanceScheduler-ConfigTable-1JAQVRF7BTCOZ",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:launch-template/lt-0c307d6b18a51b6d7",
+            "Tags": [
+                {
+                    "Key": "DailyBackup",
+                    "Value": "7Copies"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-047a73767c81c9501",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-vpc-endpoint-https-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0406cbca79ccaad0c",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1b-eniuat-maxventure-https-az1b-eniuat-maxventure-vpc-endpoint-https-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-02a3c33c75d53b0ae",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1b-eniuat-maxventure-https-az1b-eniuat-maxventure-vpc-endpoint-https-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-0f4b899ef6952c44a",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-rtb-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:transit-gateway-attachment/tgw-attach-079716bbb64891156",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-vpcatt"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-034f6bc13c1e1e28e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-0424dbf51b0432f1b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:cluster/uat-maxventure-ecs-cluster",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "Infra-ECS-Cluster-uat-maxventure-ecs-cluster-e02bc970"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/Infra-ECS-Cluster-uat-maxventure-ecs-cluster-e02bc970/c4e72960-693d-11ef-a856-0251f082176f"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ECSCluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:1",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:4",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:5",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:8",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticfilesystem:ap-southeast-1:637423506687:file-system/fs-0e1c6ccb9d3eed5bf",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "aws:elasticfilesystem:default-backup",
+                    "Value": "enabled"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:637423506687:loadbalancer/app/uat-qas-maxventures-alb/9d53b6e3ea8b2c62",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:637423506687:rule/uat-maxventure-ecs-cluster-autostart",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:637423506687:key/944e92ed-06ca-488f-b05a-1012e96c2485",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:kms:ap-southeast-1:637423506687:key/134e13e6-c4de-406a-8d80-7bf607bc7da2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-SchedulingOrchestratorBB4C4C5A-bjQG0zqhujW6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulingOrchestratorBB4C4C5A"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-schedulingRequestHandlerLambdaC3-wmwJ2QZB7BSY",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "schedulingRequestHandlerLambdaC395DC9E"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-schedulingRequestHandlerLambdaC3-wmwJ2QZB7BSY",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "schedulingRequestHandlerLogGroup92A14530"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-ASGSchedulerScheduleUpdateHandle-RZ8vQ5wIGEy3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGSchedulerScheduleUpdateHandlerLogGroupA3E7612D"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-11-27-01-08",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-11-27 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-11-25-01-09",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-11-25 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-16-01-08",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-16 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-11-28-20-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-11-28 20:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-04-01-08",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-04 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:637423506687:group/AWS_CloudFormation_Stack-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "01kekzjaaxlb95oge27xiiluvm"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/applications/01kekzjaaxlb95oge27xiiluvm"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:637423506687:group/instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler/01kekzjaaxlb95oge27xiiluvm",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "01kekzjaaxlb95oge27xiiluvm"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/applications/01kekzjaaxlb95oge27xiiluvm"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:637423506687:group/AWS_AppRegistry_Application-instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "01kekzjaaxlb95oge27xiiluvm"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/applications/01kekzjaaxlb95oge27xiiluvm"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:s3:::uat-qas-maxventure-terraform-bucket",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/applications/01kekzjaaxlb95oge27xiiluvm",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v3.0.4"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/attribute-groups/07gcirbye39gz3d2is1yvotyi0",
+            "Tags": [
+                {
+                    "Key": "Solutions:SolutionID",
+                    "Value": "SO0030"
+                },
+                {
+                    "Key": "Solutions:SolutionVersion",
+                    "Value": "v3.0.4"
+                },
+                {
+                    "Key": "aws:servicecatalog:attributeGroupName",
+                    "Value": "attgroup-ap-southeast-1-InstanceScheduler"
+                },
+                {
+                    "Key": "Solutions:ApplicationType",
+                    "Value": "AWS-Solutions"
+                },
+                {
+                    "Key": "Solutions:SolutionName",
+                    "Value": "instance-scheduler-on-aws"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/AWSQuickSetup-CreateAndAttachIAMToInstance-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede/f4022cc0-339d-11ef-b880-02cd99c7875b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "CreateAndAttachIAMToInstance"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:session/chitavorn.bh@unit.co.th-j63rr7svnkrzv7langw6r5aoo4",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAZI2LG2T7YR2KQVOXN:chitavorn.bh@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0e81b06fcfbe62479"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:ed55941a-819b-4304-b049-5f03339d96ed",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:12dbffa6-74f4-4a66-9113-1f82f77e6249",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:82e7fe57-7dd5-4b1c-a5f0-9e6e5cecb49e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:86e328f6-68d7-40d8-a148-382f39aaf663",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:28546dd1-036e-4d5e-b95c-34921ecf8b31",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:7b6abef3-33c8-48ae-9158-87b39f3d0956",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:1c2a29c9-5826-4f6d-b6d2-984f23a00195",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:d9e8ed8d-bdaa-4f10-bb27-78ec99ba7899",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:d512cc5c-622e-477f-b681-d479576d5c5c",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:13a7bc6b-f327-4faa-9154-c3b8628e2158",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:70ebf88b-51d9-4364-9505-6384bed03f91",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:3d09d3a5-56f2-46cb-b4ee-d6d0b85a959a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:62c2df11-d1fa-45cb-a984-18d32f5c4a7b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:dynamodb:ap-southeast-1:637423506687:table/InstanceScheduler-MaintenanceWindowTable-VZ0Q00LHYD3B",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:image/ami-027d4b75a15169c4f",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-ec2_v001"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:launch-template/lt-0cf94ec43cf359705",
+            "Tags": [
+                {
+                    "Key": "DailyBackup",
+                    "Value": "7Copies"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure"
+                },
+                {
+                    "Key": "map-migrate",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-acl/acl-0c43616a3a25deaf2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-092b252a6fd944456",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-efs-az1b-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0449cdd26cd00e879",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-rds-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-027d68b3273cc0f24",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:ecs:serviceName",
+                    "Value": "uat-maxventure-web-ecs-service"
+                },
+                {
+                    "Key": "aws:ecs:clusterName",
+                    "Value": "uat-maxventure-ecs-cluster"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-02526c78acb51836b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-https-az1a-eniuat-maxventure-vpc-endpoint-https-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-00520957578052bf0",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-08f222ad66efe7317",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-0a0ffc78d4d8d9e5b",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:snapshot/snap-0c7b07f8c621fc8e9",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-ec2_v001"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-09ed6bbd5ca81125d",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-0ff664abf671115e2",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-030368db1ffb6a0c2",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-subnet-ap-southeast-1c"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:transit-gateway/tgw-05019695d5b2cedee",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "nonprd-inspector-tgw"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-0185bb3445077ea5a",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:capacity-provider/Infra-ECS-Cluster-uat-maxventure-ecs-cluster-e02bc970-EC2CapacityProvider-7CLwuYG5NYpm",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:2",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:elasticloadbalancing:ap-southeast-1:637423506687:listener/app/uat-qas-maxventures-alb/9d53b6e3ea8b2c62/3c7ed6ec7adb8722",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:637423506687:rule/ecs-managed-capacity-provider-rule",
+            "Tags": []
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-InstanceSchedulerMain",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "Main"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/ecs/uat-maxventure-web/",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/ecs/uat-maxventure-web",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:InstanceScheduler-logs",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulerLogGroup"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/ecs-scheduler-autostart-autostop-function",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:db:uat-maxventure-db",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-16 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:secretsmanager:ap-southeast-1:637423506687:secret:uat/maxventure/mysql-3LjZOl",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:sns:ap-southeast-1:637423506687:InstanceScheduler-InstanceSchedulerSnsTopic-VOFEhXmxe4Mm",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstanceSchedulerSnsTopic"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:session/thana.wo@unit.co.th-2qky7m6c7ziltzkljzgfzdn4we",
+            "Tags": [
+                {
+                    "Key": "aws:ssmmessages:session-id",
+                    "Value": "AROAZI2LG2T7YR2KQVOXN:thana.wo@unit.co.th"
+                },
+                {
+                    "Key": "aws:ssmmessages:target-id",
+                    "Value": "i-0e596ca482a9d06f8"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:b389ac33-a452-4073-af1b-4efcc66a4041",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:33ea24b7-6897-480d-9ece-504bd7cf8d1b",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:6e1903cc-3f6c-4d48-a396-a67aa034820e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:441a2be7-557f-416c-8a46-7a5b8930d1d3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:e436d556-914e-48e2-a088-805e4de870ff",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:8c247131-abb5-4c36-bb6d-5b14d75afb2d",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:2e612f89-f1f9-4e25-8074-e19054e4e8a7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:27b6e481-e930-478c-aa67-81bbff3d6957",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:backup:ap-southeast-1:637423506687:recovery-point:4264ba6a-e3ea-4f8d-99cd-8618dac74ecb",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-web-efs"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:dhcp-options/dopt-0302d487a739dbe99",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0274fe1160e346bcd",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-efs-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-06bb220aeef914c4a",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-tgw-az1c-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:network-interface/eni-0c637d1f441826921",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "uat-maxventure-tgw-az1a-eni"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-0c51af42b6b641244",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-no-dhcp-private-rtb-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-02e6b03e8a8a12e93",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-0bcae226c045459bb",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:route-table/rtb-0bbbcd7396502c730",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "uat-qas"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-no-dhcp-private-rtb-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-08bd8c1611d387d10",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-no-dhcp-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-0d88596e393477c47",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-tgw-private-subnet-ap-southeast-1b"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:subnet/subnet-0345f2557d4221930",
+            "Tags": [
+                {
+                    "Key": "kubernetes.io/cluster/uat-qas-maxventure-vpc",
+                    "Value": "shared"
+                },
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "kubernetes.io/role/internal-elb",
+                    "Value": "1"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-private-subnet-ap-southeast-1a"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc/vpc-0331b5178ae67085e",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Owner",
+                    "Value": "maxventure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "Name",
+                    "Value": "uat-qas-maxventures-vpc"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-01183c2b1c4ff55a0",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ec2:ap-southeast-1:637423506687:vpc-endpoint/vpce-049d56fd92cad4b8f",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:service/uat-maxventure-ecs-cluster/uat-maxventure-web-ecs-service",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:7",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ecs:ap-southeast-1:637423506687:task-definition/uat-maxventure-web:9",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Maxventure-Web"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:637423506687:rule/uat-maxventure-ecs-cluster-autostop",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:events:ap-southeast-1:637423506687:rule/InstanceScheduler-ASGSchedulerASGOrchRule510DB4D0-ONYNrLgmBv9g",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-ASGSchedulerScheduleUpdateHandle-RZ8vQ5wIGEy3",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGSchedulerScheduleUpdateHandlerCC8A8D00"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:lambda:ap-southeast-1:637423506687:function:InstanceScheduler-default-SpokeRegistration",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SpokeRegistrationHandler923F17AC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-SchedulingOrchestratorBB4C4C5A-bjQG0zqhujW6",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "SchedulingOrchestratorLogGroup24735009"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:logs:ap-southeast-1:637423506687:log-group:/aws/lambda/InstanceScheduler-ASGSchedulerASGOrchestrator6629B-5FppR7PZOG0C",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "Infrastructure"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "InstanceScheduler"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/InstanceScheduler/7cfb0fb0-693b-11ef-af3e-06f64325abb5"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "ASGSchedulerASGOrchLogGroup58E06A86"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-09-01-07",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-09 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-11-01-08",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-11 01:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:rds:ap-southeast-1:637423506687:snapshot:rds:uat-maxventure-db-2024-12-12-20-06",
+            "Tags": [
+                {
+                    "Key": "map-migrated",
+                    "Value": "migODJ2EO9APK"
+                },
+                {
+                    "Key": "Project",
+                    "Value": "MaxVenture-Website"
+                },
+                {
+                    "Key": "Schedule",
+                    "Value": "th-operating-hours"
+                },
+                {
+                    "Key": "Environment",
+                    "Value": "nonprd"
+                },
+                {
+                    "Key": "InstanceScheduler-LastAction",
+                    "Value": "Started By InstanceScheduler 2024-12-12 20:00 UTC"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:resource-groups:ap-southeast-1:637423506687:group/AWS_AppRegistry_AppTag_637423506687-instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler",
+            "Tags": [
+                {
+                    "Key": "EnableAWSServiceCatalogAppRegistry",
+                    "Value": "true"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationId",
+                    "Value": "01kekzjaaxlb95oge27xiiluvm"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationName",
+                    "Value": "instance-scheduler-on-aws-ap-southeast-1-637423506687-InstanceScheduler"
+                },
+                {
+                    "Key": "aws:servicecatalog:applicationArn",
+                    "Value": "arn:aws:servicecatalog:ap-southeast-1:637423506687:/applications/01kekzjaaxlb95oge27xiiluvm"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/AWSQuickSetup-InstallAndManageCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede/f4022cc0-339d-11ef-b880-02cd99c7875b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "InstallAndManageCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/AWSQuickSetup-EnableConfigRecording-5io7p",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-7413d311-6e23-4852-a364-2d66f19f6458"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-CFGRecording-TA-5io7p-7413d311-6e23-4852-a364-2d66f19f6458/c67408f0-339d-11ef-b09b-026256214601"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "QuickSetupEnableConfigRecordingDoc"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Config Recording"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "1.4"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "5io7p"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/AWSQuickSetup-UpdateExistingInstanceProfile-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede/f4022cc0-339d-11ef-b880-02cd99c7875b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateExistingInstanceProfile"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        },
+        {
+            "ResourceARN": "arn:aws:ssm:ap-southeast-1:637423506687:document/UpdateCloudWatchDocument-yc8fy",
+            "Tags": [
+                {
+                    "Key": "aws:cloudformation:stack-name",
+                    "Value": "StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede"
+                },
+                {
+                    "Key": "aws:cloudformation:stack-id",
+                    "Value": "arn:aws:cloudformation:ap-southeast-1:637423506687:stack/StackSet-AWS-QuickSetup-SSMHostMgmt-TA-yc8fy-68663c6e-e09e-473e-be1e-f6e74a92dede/f4022cc0-339d-11ef-b880-02cd99c7875b"
+                },
+                {
+                    "Key": "aws:cloudformation:logical-id",
+                    "Value": "UpdateCloudWatchDocument"
+                },
+                {
+                    "Key": "QuickSetupType",
+                    "Value": "Host Management"
+                },
+                {
+                    "Key": "QuickSetupVersion",
+                    "Value": "3.1"
+                },
+                {
+                    "Key": "QuickSetupID",
+                    "Value": "yc8fy"
+                }
+            ]
+        }
+    ]
+}
