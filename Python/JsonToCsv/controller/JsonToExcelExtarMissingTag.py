@@ -18,8 +18,14 @@ border = Border(
     bottom=Side(border_style="thin")
 )
 
-# Define red fill for rows with missing required tags
-red_fill = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
+# Define white fill for rows with missing required tags
+white_fill = PatternFill(start_color="FFFFFF", end_color="FFFFFF", fill_type="solid")
+
+# List of valid services
+valid_services = [
+    "ec2","servicediscovery","elasticloadbalancing","ecs","cloudwatch","eks","mgn","rds","lambda","sns","glue","codebuild","kms","dynamodb","elasticbeanstalk","s3","network-firewall",
+    "logs","backup","sqs","athena","dms","secretsmanager","ecr"
+]
 
 # Create a new Excel workbook
 wb = Workbook()
@@ -55,6 +61,11 @@ for idx, filename in enumerate(os.listdir(json_folder_path), 1):
             for resource in data.get("ResourceTagMappingList", []):
                 resource_arn = resource["ResourceARN"]
                 service_name = resource_arn.split(":")[2]  # Extract service name from ARN
+                
+                # Only process services in the valid list
+                if service_name not in valid_services:
+                    continue  # Skip resource if service is not in the valid services list
+
                 tags = resource.get("Tags", [])
 
                 # Collect tags or mark missing tags
@@ -64,22 +75,22 @@ for idx, filename in enumerate(os.listdir(json_folder_path), 1):
                     if missing_tags:
                         tag_str = f"Missing: {', '.join(missing_tags)}"  # Highlight missing tags
                     else:
-                        tag_str = "\n".join([f"• {tag['Key']}: {tag['Value']}" for tag in tags])  # Add bullet points
+                        continue  # Skip resource if all required tags are present
                 else:
                     tag_str = "No Tag"
 
+                # Add only rows with missing required tags
                 all_rows.append([service_name, resource_arn, tag_str])
 
             # Write data into the Excel sheet
             for row in all_rows:
                 ws.append(row)
 
-            # Apply borders and highlight rows with missing tags
+            # Apply borders and set all rows to white fill (instead of red)
             for row_index, row in enumerate(ws.iter_rows(min_row=2, max_row=len(all_rows) + 1, min_col=1, max_col=3), start=2):
                 for cell in row:
                     cell.border = border
-                    if "Missing:" in row[2].value or row[2].value == "No Tag":  # Highlight rows missing required tags
-                        cell.fill = red_fill
+                    cell.fill = white_fill  # Set fill to white for all rows
 
             # Set 'wrap text' and 'vertical alignment' to top for all columns (A, B, C)
             for col in range(1, 4):  # Columns A, B, C (1, 2, 3)
@@ -104,7 +115,7 @@ if "Sheet" in wb.sheetnames:
     del wb["Sheet"]
 
 # Save the Excel file
-excel_filename = "combined_data_highlighted.xlsx"
+excel_filename = "combined_data_filtered_services.xlsx"
 excel_file_path = os.path.join(excel_output_folder, excel_filename)
 wb.save(excel_file_path)
 print(f"All data has been written to {excel_filename}")
