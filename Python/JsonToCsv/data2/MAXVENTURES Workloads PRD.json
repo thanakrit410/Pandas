@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "InstanceID": "i-0b711746720929a76",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-maxventures",
+            "Project": "MaxVenture-Website"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03d335f9528fa2516",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-maxventures",
+            "Project": "MaxVenture-Website"
+        }
+    ]
+]

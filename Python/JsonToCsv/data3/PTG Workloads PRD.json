@@ -1,0 +1,98 @@
+[
+    {
+        "InstanceID": "prd-ams-db",
+        "State": "available",
+        "InstanceType": "db.m5.large",
+        "PublicIP": "prd-ams-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "AMS"
+    },
+    {
+        "InstanceID": "prd-billpayment-db",
+        "State": "available",
+        "InstanceType": "db.m6g.large",
+        "PublicIP": "prd-billpayment-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Bill-Payment"
+    },
+    {
+        "InstanceID": "prd-cookieapp-db",
+        "State": "available",
+        "InstanceType": "db.t3.medium",
+        "PublicIP": "prd-cookieapp-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Cookies-Policy"
+    },
+    {
+        "InstanceID": "prd-enterpriseportal-db",
+        "State": "available",
+        "InstanceType": "db.m6gd.xlarge",
+        "PublicIP": "prd-enterpriseportal-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Enterprise-Portal"
+    },
+    {
+        "InstanceID": "prd-it-service-db",
+        "State": "available",
+        "InstanceType": "db.m5.large",
+        "PublicIP": "prd-it-service-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Line-IT-Station-Support"
+    },
+    {
+        "InstanceID": "prd-lab-db",
+        "State": "available",
+        "InstanceType": "db.m6i.xlarge",
+        "PublicIP": "prd-lab-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Lab-Analysis"
+    },
+    {
+        "InstanceID": "prd-lpkissflow-db",
+        "State": "available",
+        "InstanceType": "db.t3.large",
+        "PublicIP": "prd-lpkissflow-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "LP-Kissflow"
+    },
+    {
+        "InstanceID": "prd-qrpayment-db",
+        "State": "available",
+        "InstanceType": "db.m6g.large",
+        "PublicIP": "prd-qrpayment-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "QR-payment"
+    },
+    {
+        "InstanceID": "prd-snapplus-pt-db",
+        "State": "available",
+        "InstanceType": "db.t3.medium",
+        "PublicIP": "prd-snapplus-pt-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "PTG-Snapplus"
+    },
+    {
+        "InstanceID": "prd-som-db",
+        "State": "available",
+        "InstanceType": "db.m5d.xlarge",
+        "PublicIP": "prd-som-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "SOM"
+    },
+    {
+        "InstanceID": "prd-vrm-db",
+        "State": "available",
+        "InstanceType": "db.m5.4xlarge",
+        "PublicIP": "prd-vrm-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "VRM"
+    },
+    {
+        "InstanceID": "prd-webenergy-db",
+        "State": "available",
+        "InstanceType": "db.m5.large",
+        "PublicIP": "prd-webenergy-db.ce3znwszxqoz.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Web-energy"
+    }
+]

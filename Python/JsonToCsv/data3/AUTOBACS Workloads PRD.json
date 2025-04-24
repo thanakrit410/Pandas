@@ -1,0 +1,42 @@
+[
+    {
+        "InstanceID": "prd-autobacs-web-db",
+        "State": "available",
+        "InstanceType": "db.t4g.medium",
+        "PublicIP": "prd-autobacs-web-db.cv2dqyfjguw6.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Autobacs-Website"
+    },
+    {
+        "InstanceID": "prd-css-db",
+        "State": "available",
+        "InstanceType": "db.m6i.xlarge",
+        "PublicIP": "prd-css-db.cv2dqyfjguw6.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Car-Service"
+    },
+    {
+        "InstanceID": "prd-hrm-autobac-db",
+        "State": "available",
+        "InstanceType": "db.m5d.large",
+        "PublicIP": "prd-hrm-autobac-db.cv2dqyfjguw6.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Autobacs-HRMS"
+    },
+    {
+        "InstanceID": "prd-snapplus-autobacs-db",
+        "State": "available",
+        "InstanceType": "db.t3.medium",
+        "PublicIP": "prd-snapplus-autobacs-db.cv2dqyfjguw6.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Autobacs-Snapplus"
+    },
+    {
+        "InstanceID": "prd-tss-db",
+        "State": "available",
+        "InstanceType": "db.m5.large",
+        "PublicIP": "prd-tss-db.cv2dqyfjguw6.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Truck-Service"
+    }
+]

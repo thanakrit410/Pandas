@@ -1,0 +1,219 @@
+[
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-staging-api-ecs-cluster/08190a946970404ca0113c7195f7fdb1",
+        "Cluster": "PRD-staging-api-ecs-cluster",
+        "Service": "service:PRD-staging-api-ecs-service",
+        "CPU": "2048",
+        "Memory": "4096"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-ams-ecs-cluster/ae51c93252dc46168a9cf7e2b8db37a4",
+        "Cluster": "PRD-ams-ecs-cluster",
+        "Service": "service:PRD-ams-app-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-ams-ecs-cluster/b4293779ef4349fe80be51a691eb18d1",
+        "Cluster": "PRD-ams-ecs-cluster",
+        "Service": "service:PRD-ams-api-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/1108c4a0c4c443bdb82f479d00c00a47",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-server-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/39b48200aca5405aba5f090fb4d14d9b",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-mqtt-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/6024c829899d4ce784f7ab46c885b054",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-web-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/906ca053e6724df6aa0bf761a3ba1e82",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-mongo-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/b043478f18df461094658d2242fe0677",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-server-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/b6b2ff86ded245b18ad682fa6a6cbf26",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-mqtt-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-hotseat-ecs-cluster/c4dbd98e533947039131d93cba9dbd23",
+        "Cluster": "PRD-hotseat-ecs-cluster",
+        "Service": "service:PRD-hotseat-web-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/0d09fc49827a4483ade813488fe0ac97",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-signpdf",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/2a9b631c325d4074913eb60000a54775",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-legal",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/378a85d29dd54e9187ef54aa5198f3ae",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-webadmin",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/3b2d3f9cf9094c7f865c677944d183d5",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-docxconvert",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/3e5ff0f01d0a46f6bde42dc6ae82fe54",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-web",
+        "CPU": "2048",
+        "Memory": "4096"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/56c741db2920423aa33213389bf3e70d",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-legal",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/7e76f30a181543a490f25d270b96cfbf",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-api",
+        "CPU": "256",
+        "Memory": "512"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/bcd4b16e47b94352991e77842610d146",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-web",
+        "CPU": "2048",
+        "Memory": "4096"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/cc8fdd2d37644795ab5036000ed808c1",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-docxconvert",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/dc6bdad6b6da4b0bbd6df4ce8a4a8837",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-signpdf",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-kissflow-ecs-cluster/e26bc528f37e4bc2a61b034e05005e6b",
+        "Cluster": "PRD-kissflow-ecs-cluster",
+        "Service": "service:PRD-kissflow-webadmin",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-qrpayment-ecs-cluster/13604045cc0f47e78fc6a6b6ae2835b6",
+        "Cluster": "PRD-qrpayment-ecs-cluster",
+        "Service": "service:PRD-qrpayment-api",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-qrpayment-ecs-cluster/282c1438596c46e8b90d09a9917c1a03",
+        "Cluster": "PRD-qrpayment-ecs-cluster",
+        "Service": "service:PRD-qrpayment-api",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/48afcc5922a04b0997b132ddb179d5db",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-backend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/64c725e27a844f8aa19b8dcd808a89fb",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-backend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/6cd0100a9a5f474e9980d0f314641bad",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-frontend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/765dbb9d695e4dcabaf1c7e5e098313f",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-backend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/7b6620d35c8e4ba494ee5ecccde932e9",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-frontend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/84247ee4004a439d8fec45ba2b8bc4a8",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-backend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/a64f7c5809c94b3aaad371810b6b4fde",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-frontend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:031103279384:task/PRD-vrm2-ecs-cluster/f90c2641ad04431997af0d09dcaaed18",
+        "Cluster": "PRD-vrm2-ecs-cluster",
+        "Service": "service:PRD-vrm2-frontend-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    }
+]

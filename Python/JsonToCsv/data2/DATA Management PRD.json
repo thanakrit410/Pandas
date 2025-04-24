@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "InstanceID": "i-05f50ec7f786425df",
+            "State": "running",
+            "InstanceType": "m6a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-mdm-secure-agent-ec2",
+            "Project": "MDM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-09a3ff3324646f205",
+            "State": "running",
+            "InstanceType": "m7i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-wms-addon-ec2",
+            "Project": "WMS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0ff7dc50ba0a857eb",
+            "State": "running",
+            "InstanceType": "m6g.xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-06d76e0375560db15",
+            "State": "running",
+            "InstanceType": "m6g.xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0298282b8161b5f44",
+            "State": "running",
+            "InstanceType": "m6g.xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b760282a0362a3bf",
+            "State": "terminated",
+            "InstanceType": "m6gd.4xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c95d9ab9185b5186",
+            "State": "terminated",
+            "InstanceType": "m6gd.4xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-012a25377e42a81c0",
+            "State": "running",
+            "InstanceType": "m6gd.4xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0ce0758a880a83f2c",
+            "State": "running",
+            "InstanceType": "m6gd.4xlarge",
+            "PublicIP": null,
+            "Name": "workerenv-1218752475323634-a99c3761-bab2-4407-91ab-b50e6c1af1e6-worker",
+            "Project": "Data-Hub"
+        }
+    ]
+]

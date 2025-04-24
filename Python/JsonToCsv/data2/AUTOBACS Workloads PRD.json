@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "InstanceID": "i-037f967f4d4b9811b",
+            "State": "running",
+            "InstanceType": "r6i.large",
+            "PublicIP": null,
+            "Name": "PRD-w2sabcssbackp01-ec2",
+            "Project": "Car-Service"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b2d24496db80b67a",
+            "State": "running",
+            "InstanceType": "t3a.large",
+            "PublicIP": null,
+            "Name": "PRD-w2sabhrappp01-ec2",
+            "Project": "Autobacs-HRMS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0299c216ec96f4ba2",
+            "State": "running",
+            "InstanceType": "t3a.medium",
+            "PublicIP": null,
+            "Name": "PRD-w2sabhrappp02-ec2",
+            "Project": "Autobacs-HRMS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-07f407c8e229dd9f2",
+            "State": "running",
+            "InstanceType": "t3a.large",
+            "PublicIP": null,
+            "Name": "PRD-w2sabhrwebp01-ec2",
+            "Project": "Autobacs-HRMS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-06cf36ab963aceb31",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-autobacs-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-020b40d1cebd16ba2",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-tss-batch-jobs-ec2",
+            "Project": "Truck-Service"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c18a02ed00c276bc",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-autobacs-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ]
+]

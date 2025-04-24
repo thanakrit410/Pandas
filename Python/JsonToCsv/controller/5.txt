@@ -1,0 +1,68 @@
+import boto3
+import pandas as pd
+import io
+
+# 🔹 ตั้งค่า S3
+S3_BUCKET_NAME = "uat-autolist-resource-bucket"
+MERGED_FILE_NAME = "merged_instances.xlsx"
+
+s3_client = boto3.client("s3")
+
+
+def get_excel_files():
+    """📌 ดึงรายการไฟล์ Excel ทั้งหมดจาก S3"""
+    response = s3_client.list_objects_v2(Bucket=S3_BUCKET_NAME)
+    files = [obj["Key"] for obj in response.get("Contents", []) if obj["Key"].endswith(".xlsx")]
+    return files
+
+
+def load_excel_data(file_key):
+    """📌 โหลดไฟล์ Excel จาก S3 และคืนค่าเป็น DataFrame"""
+    response = s3_client.get_object(Bucket=S3_BUCKET_NAME, Key=file_key)
+    excel_data = io.BytesIO(response["Body"].read())
+    return pd.read_excel(excel_data, sheet_name=None)
+
+
+def merge_files():
+    """📌 รวมไฟล์ Excel จาก S3 เป็นไฟล์เดียว โดยแยก Sheet ตามประเภท"""
+    all_files = get_excel_files()
+    
+    # 🔹 เตรียม DataFrame ว่างสำหรับแต่ละประเภท
+    ec2_data, rds_data, ecs_data = [], [], []
+
+    for file_key in all_files:
+        sheets = load_excel_data(file_key)
+
+        # 🔹 คัดแยกข้อมูลตามประเภท
+        if "EC2 Instances" in sheets:
+            ec2_data.append(sheets["EC2 Instances"])
+        if "RDS Instances" in sheets:
+            rds_data.append(sheets["RDS Instances"])
+        if "ECS Tasks" in sheets:
+            ecs_data.append(sheets["ECS Tasks"])
+
+    # 🔹 รวมข้อมูลทั้งหมด
+    final_excel = io.BytesIO()
+    with pd.ExcelWriter(final_excel, engine="openpyxl") as writer:
+        if ec2_data:
+            pd.concat(ec2_data).to_excel(writer, sheet_name="EC2 Instances", index=False)
+        if rds_data:
+            pd.concat(rds_data).to_excel(writer, sheet_name="RDS Instances", index=False)
+        if ecs_data:
+            pd.concat(ecs_data).to_excel(writer, sheet_name="ECS Tasks", index=False)
+
+    final_excel.seek(0)
+
+    # 🔹 อัปโหลดไฟล์รวมกลับไปที่ S3
+    s3_client.upload_fileobj(final_excel, S3_BUCKET_NAME, MERGED_FILE_NAME)
+    return f"https://{S3_BUCKET_NAME}.s3.amazonaws.com/{MERGED_FILE_NAME}"
+
+
+def lambda_handler(event, context):
+    """📌 ฟังก์ชันหลักของ Lambda"""
+    merged_file_url = merge_files()
+    
+    return {
+        "statusCode": 200,
+        "body": f"Merged Excel uploaded: {merged_file_url}"
+    }

@@ -1,0 +1,280 @@
+import json
+import os
+import boto3
+import time
+from openpyxl import Workbook
+from openpyxl.styles import Border, Side, PatternFill, Alignment
+
+# 🔹 ตั้งค่า AWS S3
+S3_BUCKET_NAME = "uat-autolist-resource-bucket"
+S3_FILE_NAME = "aws_instances_and_tasks.xlsx"
+TMP_FILE_PATH = "/tmp/" + S3_FILE_NAME
+
+# 🔹 สร้าง AWS Clients
+s3_client = boto3.client("s3")
+ec2_client = boto3.client("ec2")
+rds_client = boto3.client("rds")
+ecs_client = boto3.client("ecs")
+ssm_client = boto3.client("ssm")
+
+# 🔹 สไตล์ของเส้นขอบ
+border = Border(
+    left=Side(border_style="thin"),
+    right=Side(border_style="thin"),
+    top=Side(border_style="thin"),
+    bottom=Side(border_style="thin")
+)
+
+# 🔹 สีแดงสำหรับข้อมูลที่ขาด
+red_fill = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
+
+# ฟังก์ชันแปลงจาก Bytes เป็น GiB
+def bytes_to_gib(bytes_value):
+    return bytes_value / (1024 ** 3)  # แปลง Bytes เป็น GiB
+
+def get_disk_info(instance_id, platform):
+    try:
+        # ถ้าเป็น Windows ใช้ PowerShell
+        if platform == "windows":
+            command = "Get-PSDrive -Name C | Select-Object @{Name='FreeSpace';Expression={$_.Used}} | Format-Table -HideTableHeaders"
+            document_name = "AWS-RunPowerShellScript"
+        else:
+            # ถ้าเป็น Linux ใช้ Shell Script
+            command = "df -B 1 --output=avail / | tail -n 1"  # ใช้ -B 1 เพื่อให้แสดงเป็น Bytes
+            document_name = "AWS-RunShellScript"
+
+        response = ssm_client.send_command(
+            InstanceIds=[instance_id],
+            DocumentName=document_name,
+            Parameters={"commands": [command]}
+        )
+        command_id = response['Command']['CommandId']
+        
+        time.sleep(5)  # รอให้คำสั่งทำงานเสร็จ
+        output = ssm_client.get_command_invocation(
+            CommandId=command_id,
+            InstanceId=instance_id
+        )
+        
+        # แปลงค่าจาก Bytes เป็น GiB
+        free_space_bytes = int(output.get("StandardOutputContent", "0").strip())
+        free_space_gib = bytes_to_gib(free_space_bytes)
+        
+        return f"{free_space_gib:.2f} GiB"  # คืนค่าที่แปลงแล้วเป็น GiB
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        return "N/A"
+
+def get_os_version(instance_id, platform):
+    try:
+        if platform == "windows":
+            command = 'systeminfo | findstr /B /C:"OS Name" /C:"OS Version"'
+            document_name = "AWS-RunPowerShellScript"
+        else:
+            command = 'cat /etc/os-release | grep PRETTY_NAME | cut -d "=" -f2 | tr -d \'"\''
+            document_name = "AWS-RunShellScript"
+
+        response = ssm_client.send_command(
+            InstanceIds=[instance_id],
+            DocumentName=document_name,
+            Parameters={"commands": [command]}
+        )
+        command_id = response['Command']['CommandId']
+        
+        time.sleep(10)  # รอให้คำสั่งทำงานเสร็จ
+        
+        output = ssm_client.get_command_invocation(
+            CommandId=command_id,
+            InstanceId=instance_id
+        )
+        
+        os_version = output.get("StandardOutputContent", "N/A").strip()
+        return os_version
+
+    except Exception as e:
+        print(f"Error fetching OS version for {instance_id}: {str(e)}")
+        return "N/A"
+
+
+# 📌 ดึงข้อมูล EC2 Instances
+def get_ec2_instances():
+    response = ec2_client.describe_instances()
+    instances = []
+    
+    # ดึงประเภทของ instance ทั้งหมดที่พบ เพื่อใช้ lookup CPU/Memory
+    instance_types = list(set(
+        instance["InstanceType"]
+        for reservation in response["Reservations"]
+        for instance in reservation["Instances"]
+    ))
+
+    # ดึงข้อมูล Instance Type (CPU / Memory)
+    instance_type_info = {}
+    if instance_types:
+        type_response = ec2_client.describe_instance_types(InstanceTypes=instance_types)
+        for it in type_response["InstanceTypes"]:
+            instance_type_info[it["InstanceType"]] = {
+                "vCPU": it["VCpuInfo"]["DefaultVCpus"],
+                "Memory": it["MemoryInfo"]["SizeInMiB"]  # ขนาด RAM (MiB)
+            }
+
+    # ดึงรายละเอียด Instance
+    for reservation in response["Reservations"]:
+        for instance in reservation["Instances"]:
+            instance_id = instance["InstanceId"]
+            instance_type = instance["InstanceType"]
+            cpu_memory = instance_type_info.get(instance_type, {"vCPU": "N/A", "Memory": "N/A"})
+
+            platform = instance.get("Platform", "Linux")
+
+            disk_size = "N/A"  # กำหนดค่าเริ่มต้นเป็น "N/A"
+            if "BlockDeviceMappings" in instance:
+                # ตรวจสอบว่า BlockDeviceMappings มี EBS หรือไม่
+                ebs = instance["BlockDeviceMappings"]
+                if ebs:
+                    disk_size = ebs[0].get("Ebs", {}).get("VolumeSize", "N/A")  # ดึง VolumeSize
+            
+            free_space = get_disk_info(instance_id, platform)
+
+            os_version = get_os_version(instance_id, platform)
+            
+            instance_data = {
+                "InstanceID": instance["InstanceId"],
+                "State": instance["State"]["Name"],
+                "InstanceType": instance_type,
+                "vCPU": cpu_memory["vCPU"],  # ดึงจำนวน vCPU
+                "Memory (MiB)": cpu_memory["Memory"],  # ดึงขนาด RAM (MiB)
+                "PrivateIP": instance.get("PrivateIpAddress", "N/A"),
+                "Name": next((tag["Value"] for tag in instance.get("Tags", []) if tag["Key"] == "Name"), "N/A"),
+                "Project": next((tag["Value"] for tag in instance.get("Tags", []) if tag["Key"] == "Project"), "N/A"),
+                "FreeSpace": free_space,
+                "Platform" : instance.get("Platform", "linux"),
+                "OS Version": os_version,
+            }
+            instances.append(instance_data)
+    
+    return instances
+
+
+# 📌 ดึงข้อมูล RDS Instances
+def get_rds_instances():
+    response = rds_client.describe_db_instances()
+    instances = []
+    for db_instance in response["DBInstances"]:
+        instance_data = {
+            "InstanceID": db_instance["DBInstanceIdentifier"],
+            "State": db_instance["DBInstanceStatus"],
+            "InstanceType": db_instance["DBInstanceClass"],
+            "Engine": db_instance["Engine"],
+            "EngineVersion": db_instance["EngineVersion"],
+            "PrivateIP": db_instance.get("Endpoint", {}).get("Address", "N/A"),
+            "Project": next(
+                (tag["Value"] for tag in db_instance.get("TagList", []) if tag["Key"] == "Project"),
+                "N/A"
+            )
+        }
+        instances.append(instance_data)
+    return instances
+
+# 📌 ดึงข้อมูล ECS Tasks
+def get_ecs_tasks():
+    clusters = ecs_client.list_clusters()["clusterArns"]
+    ecs_tasks = []
+    for cluster_arn in clusters:
+        cluster_name = cluster_arn.split("/")[-1]  # ดึงชื่อ Cluster ออกมา
+        task_arns = ecs_client.list_tasks(cluster=cluster_name)["taskArns"]
+
+        if not task_arns:
+            continue  # ข้ามถ้าไม่มี Task
+
+        tasks_info = ecs_client.describe_tasks(cluster=cluster_name, tasks=task_arns)["tasks"]
+
+        for task in tasks_info:
+            tags = ecs_client.list_tags_for_resource(resourceArn=task["taskArn"]).get("tags", [])
+            project_name = next((tag["value"] for tag in tags if tag["key"] == "Project"), "N/A")
+
+            ecs_tasks.append({
+                "TaskARN": task["taskArn"],
+                "Cluster": cluster_name,
+                "Service": task["group"],  # ชื่อ Service ที่ Task สังกัด
+                "CPU": task.get("cpu", "N/A"),
+                "Memory": task.get("memory", "N/A"),
+                "Project": project_name  # เพิ่ม Project จาก Tags
+            })
+    return ecs_tasks
+
+# 📌 บันทึกข้อมูลลงไฟล์ Excel
+def save_to_excel(ec2_instances, rds_instances, ecs_tasks):
+    wb = Workbook()
+
+    if "Sheet" in wb.sheetnames:
+        wb.remove(wb["Sheet"])
+
+    # 🔹 สร้าง Sheet สำหรับ EC2 Instances
+    ws_ec2 = wb.create_sheet(title="EC2 Instances")
+    columns_ec2 = ["InstanceID", "State", "InstanceType", "vCPU", "Memory (MiB)", "PrivateIP", "Name", "Project", "FreeSpace", "Platform", "OS Version"]
+    ws_ec2.append(columns_ec2)
+    for instance in ec2_instances:
+        row_data = [instance.get(col, "N/A") for col in columns_ec2]
+        ws_ec2.append(row_data)
+    apply_styles(ws_ec2, columns_ec2)
+
+    # 🔹 สร้าง Sheet สำหรับ RDS Instances
+    ws_rds = wb.create_sheet(title="RDS Instances")
+    columns_rds = ["InstanceID", "State", "InstanceType", "PrivateIP", "Project", "Engine","EngineVersion"]
+    ws_rds.append(columns_rds)
+    for instance in rds_instances:
+        row_data = [instance.get(col, "N/A") for col in columns_rds]
+        ws_rds.append(row_data)
+    apply_styles(ws_rds, columns_rds)
+
+    # 🔹 สร้าง Sheet สำหรับ ECS Tasks
+    ws_ecs = wb.create_sheet(title="ECS Tasks")
+    columns_ecs = ["TaskARN", "Cluster", "Service", "CPU", "Memory", "Project"]
+    ws_ecs.append(columns_ecs)
+    for task in ecs_tasks:
+        row_data = [task.get(col, "N/A") for col in columns_ecs]
+        ws_ecs.append(row_data)
+    apply_styles(ws_ecs, columns_ecs)
+
+    # 🔹 บันทึกไฟล์
+    wb.save(TMP_FILE_PATH)
+    return TMP_FILE_PATH
+
+# 📌 ฟังก์ชันจัดรูปแบบเซลล์
+def apply_styles(ws, columns):
+    for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=len(columns)):
+        for cell in row:
+            cell.border = border
+            cell.alignment = Alignment(wrap_text=True, vertical="top")
+            if cell.value in ["N/A", None, ""]:
+                cell.fill = red_fill
+
+    for col in ws.columns:
+        max_length = max(len(str(cell.value)) for cell in col if cell.value) + 2
+        ws.column_dimensions[col[0].column_letter].width = max_length
+
+# 📌 อัปโหลดไฟล์ไปที่ S3
+def upload_to_s3(file_path):
+    s3_client.upload_file(file_path, S3_BUCKET_NAME, S3_FILE_NAME)
+    s3_url = f"https://{S3_BUCKET_NAME}.s3.amazonaws.com/{S3_FILE_NAME}"
+    return s3_url
+
+# 📌 ฟังก์ชันหลักของ Lambda
+def lambda_handler(event, context):
+    ec2_instances = get_ec2_instances()
+    rds_instances = get_rds_instances()
+    ecs_tasks = get_ecs_tasks()
+
+    excel_path = save_to_excel(ec2_instances, rds_instances, ecs_tasks)
+    s3_link = upload_to_s3(excel_path)
+
+    return {
+        "statusCode": 200,
+        "body": json.dumps({
+            "ec2_instances": ec2_instances,
+            "rds_instances": rds_instances,
+            "ecs_tasks": ecs_tasks
+        }, indent=4),
+        "s3_link": s3_link
+    }

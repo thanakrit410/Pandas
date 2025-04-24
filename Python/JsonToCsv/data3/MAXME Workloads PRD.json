@@ -1,0 +1,10 @@
+[
+    {
+        "InstanceID": "prd-crm-microservice-db",
+        "State": "available",
+        "InstanceType": "db.m5d.2xlarge",
+        "PublicIP": "prd-crm-microservice-db.czs9ilufibs8.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "CRM-Microservice"
+    }
+]

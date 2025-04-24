@@ -1,0 +1,332 @@
+[
+    [
+        {
+            "InstanceID": "i-0ec807bf98e017fbf",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "ip-172-30-227-183.ap-southeast-1.compute.internal",
+            "Project": "CRM-Microservice"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-014d63c788d930173",
+            "State": "running",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "node-group-azb",
+            "Project": "CRM-Microservice"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a6a9c53d046f305c",
+            "State": "stopped",
+            "InstanceType": "r6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-edc-03-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-040226dad00c2d1af",
+            "State": "stopped",
+            "InstanceType": "r6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-edc-04-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-02f6153bcba7d1dcd",
+            "State": "stopped",
+            "InstanceType": "r6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-edc-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03b015b222c5c93c4",
+            "State": "stopped",
+            "InstanceType": "r6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-edc-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-05a4bc77c53509b9c",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-dopa-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-01f001773934e6164",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-bc-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0cc5025f54b9ef8ad",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-nonbc-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c7baf04099a23ec2",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-bc-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0f426fefcab00253c",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-dynamictext-03-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00b4283ae84a21cad",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-ussd-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0abd88da1ff029424",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-pointtransferIn-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-05256bb5389f3cb62",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-dynamictext-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03de8b8ddc9a65a8e",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-ussd-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-087951acac71e2299",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-dynamictext-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-09a5f63cd84752bc1",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-pointtransferIn-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-079367578ef0890db",
+            "State": "stopped",
+            "InstanceType": "m5.2xlarge",
+            "PublicIP": null,
+            "Name": "preprd-crm-backup-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-033d9b34c645f2978",
+            "State": "running",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "PRD-crm-microservice-batchjob-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0d0484ef7491863b0",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-pot-02-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0bb4eb80528f58d34",
+            "State": "stopped",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "preprd-crm-pot-01-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-009968016e18c4a30",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "preprd-crm-premium-gift-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03b16c91919ffa787",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "preprd-crm-partnerplatform-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-029c199dedb7126ff",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "preprd-crm-line-bc-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b6cb9608aaa90c12",
+            "State": "stopped",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "preprd-crm-maxservice-po-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c5be96b1dcf4c064",
+            "State": "running",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "node-group-aza",
+            "Project": "CRM-Microservice"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a33ce5b906189658",
+            "State": "running",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-crm-eks-bastion-ec2",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-06d84adbeb07cb3b5",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "ip-172-30-67-85.ap-southeast-1.compute.internal",
+            "Project": "CRM-Microservice"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0174b68d95d32d2c5",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "ip-172-30-66-132.ap-southeast-1.compute.internal",
+            "Project": null
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-020eca3ba2768a0b8",
+            "State": "running",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "node-group-aza",
+            "Project": "CRM-Microservice"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-003c6f96f4e05f193",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "ip-172-30-65-29.ap-southeast-1.compute.internal",
+            "Project": "CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0d9d327b1abe415e2",
+            "State": "stopped",
+            "InstanceType": "m5.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-crm-smartbulkcopy-ec2",
+            "Project": null
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0260e9e833d8c076c",
+            "State": "running",
+            "InstanceType": "t3a.small",
+            "PublicIP": null,
+            "Name": "PRD-secupi-bastion-ec2",
+            "Project": "SecuPi"
+        }
+    ]
+]

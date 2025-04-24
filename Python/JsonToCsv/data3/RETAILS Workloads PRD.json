@@ -1,0 +1,34 @@
+[
+    {
+        "InstanceID": "prd-nexxphama-db",
+        "State": "available",
+        "InstanceType": "db.t3.large",
+        "PublicIP": "prd-nexxphama-db.cygracsysrb2.ap-southeast-1.rds.amazonaws.com",
+        "Name": "Nexxphama-Web Database",
+        "Project": "Nexxphama-Web"
+    },
+    {
+        "InstanceID": "prd-pun-lineoa",
+        "State": "available",
+        "InstanceType": "db.t3.large",
+        "PublicIP": "prd-pun-lineoa.cygracsysrb2.ap-southeast-1.rds.amazonaws.com",
+        "Name": "Punthai-LineOA Database",
+        "Project": "Punthai-Line-OA"
+    },
+    {
+        "InstanceID": "prd-punthai-web-db",
+        "State": "available",
+        "InstanceType": "db.t4g.medium",
+        "PublicIP": "prd-punthai-web-db.cygracsysrb2.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Punthai-Website"
+    },
+    {
+        "InstanceID": "prd-retraining-db",
+        "State": "available",
+        "InstanceType": "db.t3.large",
+        "PublicIP": "prd-retraining-db.cygracsysrb2.ap-southeast-1.rds.amazonaws.com",
+        "Name": "Re-Training Database",
+        "Project": "Re-Training"
+    }
+]

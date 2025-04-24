@@ -1,0 +1,9 @@
+{
+    "task_arns": [    
+    "arn:aws:ecs:ap-southeast-1:975050083123:task/PRD-chatx-ecs-cluster/695e57cbd97840e5b572d7c75da88e5d",
+    "arn:aws:ecs:ap-southeast-1:975050083123:task/PRD-chatx-ecs-cluster/880dcbfe75014eec9d33c980d96eb64d",
+    "arn:aws:ecs:ap-southeast-1:975050083123:task/PRD-chatx-ecs-cluster/91457b42863f49b0918ba8215826529d",
+    "arn:aws:ecs:ap-southeast-1:975050083123:task/PRD-chatx-ecs-cluster/aa96cfc4513444b9b212df219a2a1955"
+    ]
+}
+  

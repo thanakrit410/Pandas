@@ -1,0 +1,16 @@
+[
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:992382481933:task/PRD-maxventure-ecs-cluster/068bcec2d98641dd9e2a9b394810c1fd",
+        "Cluster": "PRD-maxventure-ecs-cluster",
+        "Service": "service:PRD-maxventure-web-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:992382481933:task/PRD-maxventure-ecs-cluster/f3b1f3e5ce244781af3b8f027dba8848",
+        "Cluster": "PRD-maxventure-ecs-cluster",
+        "Service": "service:PRD-maxventure-web-ecs-service",
+        "CPU": "1024",
+        "Memory": "2048"
+    }
+]

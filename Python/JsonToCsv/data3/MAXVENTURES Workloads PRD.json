@@ -1,0 +1,10 @@
+[
+    {
+        "InstanceID": "prd-maxventure-db",
+        "State": "available",
+        "InstanceType": "db.m6g.large",
+        "PublicIP": "prd-maxventure-db.cxkkoe4cypip.ap-southeast-1.rds.amazonaws.com",
+        "Name": "prd-maxventure-db",
+        "Project": "MaxVenture-Website"
+    }
+]

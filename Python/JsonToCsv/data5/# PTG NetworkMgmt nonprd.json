@@ -1,0 +1,515 @@
+[
+  {
+    "DomainName": "d1ktspi6kmimrp.cloudfront.net",
+    "CloudFrontID": "uat-s3.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1zxleovr4z4ae.cloudfront.net",
+    "CloudFrontID": "uat.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1umkzudqz4383.cloudfront.net",
+    "CloudFrontID": "uat-api.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dwnhlma4pqfvb.cloudfront.net",
+    "CloudFrontID": "uat-back.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1zvbnmzu0bwtf.cloudfront.net",
+    "CloudFrontID": "uat-s3.punthaicoffee.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d9wds81dkomcq.cloudfront.net",
+    "CloudFrontID": "uat-booking.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d5p1vnb8b2vo2.cloudfront.net",
+    "CloudFrontID": "uat-booking-api.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "ds0njzuovfhau.cloudfront.net",
+    "CloudFrontID": "uat.punthaicoffee.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2rypuhe1p7kgf.cloudfront.net",
+    "CloudFrontID": "uat-cms.punthaicoffee.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2mlmj24cxccy4.cloudfront.net",
+    "CloudFrontID": "uat-maxstation.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1qqarc4pn0gx3.cloudfront.net",
+    "CloudFrontID": "uat-sale-on-mobile.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dcam52m74vtu0.cloudfront.net",
+    "CloudFrontID": "uat-billpayment.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dar0k5j0sgte8.cloudfront.net",
+    "CloudFrontID": "uat-retraining.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2b55hlkgzi1l2.cloudfront.net",
+    "CloudFrontID": "uat-retraining-api.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2m4hcsz93nwtg.cloudfront.net",
+    "CloudFrontID": "uat-lab-analysis.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dhqio222aotmu.cloudfront.net",
+    "CloudFrontID": "uat-autobacs-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2n40hq3k56wtw.cloudfront.net",
+    "CloudFrontID": "uat-ptg-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3k7fb1tv7j3kh.cloudfront.net",
+    "CloudFrontID": "uat-api-ptg-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d13flvw9tka0cy.cloudfront.net",
+    "CloudFrontID": "uat-api-autobacs-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3t40bc36w4u9q.cloudfront.net",
+    "CloudFrontID": "uat-s3-ptg-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2uyqtlisvcwr2.cloudfront.net",
+    "CloudFrontID": "uat-s3-autobacs-snapplus.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3t0zyfaxjcdo8.cloudfront.net",
+    "CloudFrontID": "uat-stationwarpad.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3rhfgnaim7iso.cloudfront.net",
+    "CloudFrontID": "uat-api-sale-on-mobile.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2w0rm1m5yihna.cloudfront.net",
+    "CloudFrontID": "uat-backend-sale-on-mobile.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1reh94zdpjj2b.cloudfront.net",
+    "CloudFrontID": "uat-centerservice.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d90vj0qot70qa.cloudfront.net",
+    "CloudFrontID": "uat-paymentservice.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "du5h4df1y0swj.cloudfront.net",
+    "CloudFrontID": "uat-enterpriseportal.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d21qi442ubfw67.cloudfront.net",
+    "CloudFrontID": "uat-www.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dfi48xs3pfyfr.cloudfront.net",
+    "CloudFrontID": "uat-backoffice.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3k7h4ghr92gl.cloudfront.net",
+    "CloudFrontID": "uat-cookie-backoffice.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dqlqo12cfxsd.cloudfront.net",
+    "CloudFrontID": "paymentdev.pt.co.th (uat)",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dn70e9x9o1ows.cloudfront.net",
+    "CloudFrontID": "uat-ptcookinggas.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d74gwe3qbzob.cloudfront.net",
+    "CloudFrontID": "uat-nexxpharma-portal-service.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3hsa6z7hyhu34.cloudfront.net",
+    "CloudFrontID": "uat-nexxpharma-web-portal.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1o8vafgvljxj0.cloudfront.net",
+    "CloudFrontID": "uat-nexxpharma-web.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1g1va8t9i3wrp.cloudfront.net",
+    "CloudFrontID": "uat-lpkissflow-frontend.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1178g18wvvyzl.cloudfront.net",
+    "CloudFrontID": "uat-lpkissflow-backoffice.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3r2fqvj9km8h4.cloudfront.net",
+    "CloudFrontID": "uathrm.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3mv6ec3fzv68i.cloudfront.net",
+    "CloudFrontID": "uat-keycloak.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d178je860cictw.cloudfront.net",
+    "CloudFrontID": "uat-carserviceapi.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d25sko920q2oh4.cloudfront.net",
+    "CloudFrontID": "uat-carservice.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3lx3ofokechdt.cloudfront.net",
+    "CloudFrontID": "uat-carservicecenter.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d97d69dco1gos.cloudfront.net",
+    "CloudFrontID": "uat-datahub-apigw.ptgenterprise.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1ab4zsuawyh93.cloudfront.net",
+    "CloudFrontID": "uat-autobacs-css-api.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d17ecmj7y0z3s1.cloudfront.net",
+    "CloudFrontID": "uat-backoffice-api.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dbvels8nu5yy3.cloudfront.net",
+    "CloudFrontID": "uat-www-api.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2309ot15639rb.cloudfront.net",
+    "CloudFrontID": "HR-Chatbot-uat.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d4yo0mjn3fdyx.cloudfront.net",
+    "CloudFrontID": "uatfs.autobacs.online",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "djllp6dfvva8r.cloudfront.net",
+    "CloudFrontID": "uat-maxventures.ptgenterprise.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1hkf2x8xw2czi.cloudfront.net",
+    "CloudFrontID": "uat-sce-wms.ptgenterprise.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1aif8xqk5xf9z.cloudfront.net",
+    "CloudFrontID": "ptldap-uat.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "df6nnr1ql3wfy.cloudfront.net",
+    "CloudFrontID": "vrm-uat.ptgenterprise.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dgusxbrh75gux.cloudfront.net",
+    "CloudFrontID": "uat-prekeycloak.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dqb3tstcyj6hc.cloudfront.net",
+    "CloudFrontID": "uat-s3-nexxpharma.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3rhq07seacaao.cloudfront.net",
+    "CloudFrontID": "uat-provision-api.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3n7v1zwuc5uik.cloudfront.net",
+    "CloudFrontID": "uat-provision-resetpass.ptgenergy.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d2a003b5ued6st.cloudfront.net",
+    "CloudFrontID": "uat-oilanalysis.ptgenterprise.net",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1ehga90im9e6t.cloudfront.net",
+    "CloudFrontID": "uat-it-station-support.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3tr8w2kobgeb6.cloudfront.net",
+    "CloudFrontID": "uat-aichat-advisor.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d38r9wcahtatrf.cloudfront.net",
+    "CloudFrontID": "uat-chatx-engine.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "dur2xu5w7fhqd.cloudfront.net",
+    "CloudFrontID": "uatitstation-chatbot.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d3eq12butnvh5j.cloudfront.net",
+    "CloudFrontID": "uat-autobacs-biotime.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d29k4wy3one4f6.cloudfront.net",
+    "CloudFrontID": "uat-hotseat.pt.co.th",
+    "GeoRestrictionType": "none",
+    "Countries": [
+      "null"
+    ]
+  },
+  {
+    "DomainName": "d1q1ew4q9hne8.cloudfront.net",
+    "CloudFrontID": "uat-workflow.pt.co.th",
+    "GeoRestrictionType": "whitelist",
+    "Countries": [
+      "TH",
+      "SG"
+    ]
+  }
+]

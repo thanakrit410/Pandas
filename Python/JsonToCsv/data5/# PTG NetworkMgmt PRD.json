@@ -1,0 +1,675 @@
+[
+    {
+      "DomainName": "d1b88e4ejgr37a.cloudfront.net",
+      "CloudFrontID": "www.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d5hbx8rdzei9s.cloudfront.net",
+      "CloudFrontID": "prd-s3.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1xn5a52ixqd6k.cloudfront.net",
+      "CloudFrontID": "back.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "ddrk0yspoq8mv.cloudfront.net",
+      "CloudFrontID": "api.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d9y3doc3s1z9p.cloudfront.net",
+      "CloudFrontID": "booking.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3ov912245ec0j.cloudfront.net",
+      "CloudFrontID": "booking-api.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "df8fbea5sz53u.cloudfront.net",
+      "CloudFrontID": "prd-s3.punthaicoffee.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dhc1kl5305exu.cloudfront.net",
+      "CloudFrontID": "www.punthaicoffee.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1dyle7l4n8m7m.cloudfront.net",
+      "CloudFrontID": "cms.punthaicoffee.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dhk8i5f09g391.cloudfront.net",
+      "CloudFrontID": "training-register.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d20l6fe3xtsnsl.cloudfront.net",
+      "CloudFrontID": "training-register-api.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d20n4xhruyovti.cloudfront.net",
+      "CloudFrontID": "billpayment.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dkn4p9o7rekwp.cloudfront.net",
+      "CloudFrontID": "timeattendance-autobacs.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3tssaz75l3brj.cloudfront.net",
+      "CloudFrontID": "lab-analysis.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1jq6fa5lsuyzk.cloudfront.net",
+      "CloudFrontID": "api-ptg-snapplus.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1tfnbhl4rdgo6.cloudfront.net",
+      "CloudFrontID": "api-autobacs-snapplus.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1qb7aqrrfpf8.cloudfront.net",
+      "CloudFrontID": "s3-ptg-snapplus.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3smgj6poyut52.cloudfront.net",
+      "CloudFrontID": "s3-autobacs-snapplus.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d27j7ukagsv9wp.cloudfront.net",
+      "CloudFrontID": "maxstation.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2vbgjmdj9g8ig.cloudfront.net",
+      "CloudFrontID": "stationwarpad.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d6dzo1unhcf7.cloudfront.net",
+      "CloudFrontID": "workflow.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "da9ss024d7a0k.cloudfront.net",
+      "CloudFrontID": "nameserver.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2cwf4h6k2av57.cloudfront.net",
+      "CloudFrontID": "www.atlasenergy.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d35i0k0s0difob.cloudfront.net",
+      "CloudFrontID": "centerservice.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2f8k5rakobjyw.cloudfront.net",
+      "CloudFrontID": "paymentapi.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1dgamizqhauvw.cloudfront.net",
+      "CloudFrontID": "sale-on-mobile.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dwpqvz93nz40e.cloudfront.net",
+      "CloudFrontID": "api-sale-on-mobile.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1g9i3e4lvv5h3.cloudfront.net",
+      "CloudFrontID": "backend-sale-on-mobile.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2hcwcf1m15uom.cloudfront.net",
+      "CloudFrontID": "cookie-backoffice.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2udsv03pgbhxr.cloudfront.net",
+      "CloudFrontID": "ptcookinggas.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3vwzuxn6cqroo.cloudfront.net",
+      "CloudFrontID": "engineer.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1jaag2rxroji2.cloudfront.net",
+      "CloudFrontID": "crmcenter.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1yjixdgy2niub.cloudfront.net",
+      "CloudFrontID": "safety.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2vo227cwwxpei.cloudfront.net",
+      "CloudFrontID": "servicedesk.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3f2g7b69ic2rb.cloudfront.net",
+      "CloudFrontID": "qrpayment.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3qf4fys73d2cm.cloudfront.net",
+      "CloudFrontID": "punlineoa-apigw.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2c73wi6yahpuc.cloudfront.net",
+      "CloudFrontID": "hrm.autobacs.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2l3h45aoie7j.cloudfront.net",
+      "CloudFrontID": "www.nexx-pharma.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3pg7t86txy84f.cloudfront.net",
+      "CloudFrontID": "nexxpharma-portal.nexx-pharma.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2xxlhx71245qs.cloudfront.net",
+      "CloudFrontID": "nexxpharma-portal-service.nexx-pharma.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3qvvy2yqqpef7.cloudfront.net",
+      "CloudFrontID": "lpkissflow-backend.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3her7pruk15ao.cloudfront.net",
+      "CloudFrontID": "lpkissflow-frontend.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "db2dsxkmnlor1.cloudfront.net",
+      "CloudFrontID": "lpkissflow-backoffice.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3j0br94hb1tve.cloudfront.net",
+      "CloudFrontID": "carservice.pt.co.th ",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1ap0zsn12zj2k.cloudfront.net",
+      "CloudFrontID": "carservicecenter.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1rqomo51fw5fc.cloudfront.net",
+      "CloudFrontID": "carserviceapi.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d79ax9vzyhko2.cloudfront.net",
+      "CloudFrontID": "ax.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3gfx6o4bqu1r0.cloudfront.net",
+      "CloudFrontID": "office-center.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dsllln4pj7nkx.cloudfront.net",
+      "CloudFrontID": "academy.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d15pd87dqpg6mk.cloudfront.net",
+      "CloudFrontID": "transform.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d14iwnj45buo1o.cloudfront.net",
+      "CloudFrontID": "safety.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1s9yb005u77b2.cloudfront.net",
+      "CloudFrontID": "bi-storage.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3tkr20hkr69vm.cloudfront.net",
+      "CloudFrontID": "dailyoperation.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1fuos19ube3ts.cloudfront.net",
+      "CloudFrontID": "autobacs-css-api.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d8nbavlv4mfm6.cloudfront.net",
+      "CloudFrontID": "pre-backoffice.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1howzofnqzpd1.cloudfront.net",
+      "CloudFrontID": "pre-backoffice-api.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d8e1xrbdy1uoe.cloudfront.net",
+      "CloudFrontID": "www.ptgenergy.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1lh9t11jpifba.cloudfront.net",
+      "CloudFrontID": "api.ptgenergy.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3zffq4g1effb.cloudfront.net",
+      "CloudFrontID": "backoffice.ptgenergy.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d14n6xfqq1r33z.cloudfront.net",
+      "CloudFrontID": "backoffice-api.ptgenergy.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dx7ofytjupuon.cloudfront.net",
+      "CloudFrontID": "pre-www.ptgenterprise.net",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "drlwe2p5eqhof.cloudfront.net",
+      "CloudFrontID": "pre-www-api.ptgenterprise.net",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dvlc9bf2n4eum.cloudfront.net",
+      "CloudFrontID": "pre-backoffice.ptgenterprise.net",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1uh588uv5qwh4.cloudfront.net",
+      "CloudFrontID": "pre-backoffice-api.ptgenterprise.net",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "daca81z6yey70.cloudfront.net",
+      "CloudFrontID": "lsretail.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3evv9l7wnnnn7.cloudfront.net",
+      "CloudFrontID": "prd-datahub-apigw.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2ccsj3i5aeuiw.cloudfront.net",
+      "CloudFrontID": "microservice-preprd.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1137ikgocjdv2.cloudfront.net",
+      "CloudFrontID": "sce-wms.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dkes9rf1nu8mx.cloudfront.net",
+      "CloudFrontID": "crm-microservice.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "donlaih5vc8ik.cloudfront.net",
+      "CloudFrontID": "ptg-portal.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d313axrtqm4qp2.cloudfront.net",
+      "CloudFrontID": "ams.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d22ln49bnxj6rv.cloudfront.net",
+      "CloudFrontID": "www.maxventures.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d12pjm5o7j92bn.cloudfront.net",
+      "CloudFrontID": "linechatbot.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d211kccn7jcyvo.cloudfront.net",
+      "CloudFrontID": "crm-microservice-report.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d2yojk1lr05na3.cloudfront.net",
+      "CloudFrontID": "staging-api.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d3p48k7ixz12ob.cloudfront.net",
+      "CloudFrontID": "oilanalysis.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1mimt1e6119sd.cloudfront.net",
+      "CloudFrontID": "prd-s3-nexxpharma.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1oh4su4lrkkg1.cloudfront.net",
+      "CloudFrontID": "ptg-snapplus.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "dakvw33bdl93o.cloudfront.net",
+      "CloudFrontID": "it-station-support.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1fja19zk5e4z6.cloudfront.net",
+      "CloudFrontID": "itstation-chatbot.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d24qfdkxzbx7q5.cloudfront.net",
+      "CloudFrontID": "aichat-advisor.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1xzuszovd6zus.cloudfront.net",
+      "CloudFrontID": "chatx-engine.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d16o1bs366u03k.cloudfront.net",
+      "CloudFrontID": "hotseat.pt.co.th",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    },
+    {
+      "DomainName": "d1n7y9q6h58eea.cloudfront.net",
+      "CloudFrontID": "ls-update-svc.ptgenterprise.com",
+      "GeoRestrictionType": "none",
+      "Countries": [
+        "null"
+      ]
+    }
+  ]
+  

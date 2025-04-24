@@ -1,0 +1,36 @@
+{
+    "task_arns": [
+        
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/011e58c13f5c43859361bc5e273f081c",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/2768156a8b204665b747e7ca6117e78d",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/40580f7cf5e549aabf29bdf3ca5bebbd",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/4400f33a8f294e1b9504650f51ecc6e5",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/67686fd508324212901d965d2e1c6f9f",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/80f08f23d90647ed9dc8cf6291b1d621",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/8cbd8bbc7ef846ac83642804a5d237f0",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/995aac5f9ea9406ca0b5a98455e56af2",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/aba8094b69734882b84791502a9eaf49",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/f75d3ff21ee445b3a1799a6b5e25a83d",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-autobacs-ecs-cluster/ffd8d2a3c5a14f60981e85d0bd65367f",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/101731a2ea0c471788596413cb6f5406",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/1285d7cb283043ca819ad00ea953db20",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/1bb8d9bc19d74c16a66f9769f12cc2bc",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/2cc2b4569b574b5ebb8f6f1fae4dbd88",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/6494fcb1fd074beb95733bae949c0faa",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/6db75b91c4d3470985a5d3ba05a969f3",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/7abaac39c09d4714b17149b853c52a6b",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/97e05a49beaf44f89ca1b0790cd855e8",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/995c5b45fd8147ef9fdaaf856ee21df3",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/a8f24ab1768e430d9483473becfcc4ae",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/b49e93a32fcc4d8e8d590e1408335077",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/ccc9356dff944f22828e1d572580cc82",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/d65e141881874612bdf56c23bace4ef6",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/d6d65c61073c4f6fa826bbc1520487fe",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/dd70d430367341a1a2b9fad5c2d51387",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/e9706f697f3c48d5a1608d1bed5d2c07",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-tss-ecs-cluster/edad79c5662a4d25ac09ec8431ac1940",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-carservice-ecs-cluster/086ca49af506479a989cbf0070cf5f32",
+        "arn:aws:ecs:ap-southeast-1:171211750322:task/PRD-carservice-ecs-cluster/22561e2796a64f098fb0644db752b318"
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "task_arns": [    
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/02d847201f7e4cc8960c76c44ea93ab8",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/13079661568a46b6826d6718967913ff",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/455a005e1ba04108b3defd0d58acfb94",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/7361e4ceda824a948a619a6f88239ed3",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/e04405c8ec3d4e65ab3d05d60a8fd2cf",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/f9c59a166bc8454183eb613d10de673a",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/21b934a9e0f34a6ebe3798905c4ef14c",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/3b4bc22a9a2748a69cb175447e5fb020",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/3dc3a635ca3c4a62b6eeb17c0fe4d9f6",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/45f8377994304aefb239ff965e95df0e",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/64ca141024704045aa281fa76c402e3b",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/8ea5b11a95864420982aa0e83c00b37b",
+    "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/eb651c29f1f847d3a07f220e21664687"
+    ]
+}

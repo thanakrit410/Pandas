@@ -1,0 +1,732 @@
+[
+    [
+        {
+            "InstanceID": "i-0044076b6624ac403",
+            "State": "stopped",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2solaraappp01",
+            "Project": "Solar"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0bb0c20766225dd7e",
+            "State": "running",
+            "InstanceType": "c5a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp05-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0fb1ae37a7c6b9899",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp06-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b1de17d4f29a4878",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp04-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03046dacbfb3de233",
+            "State": "running",
+            "InstanceType": "c5a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp03-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-033efb4e6854aa0f7",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp02-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00b2eb04398759477",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2bianalyp01-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b2d7b05d7405699c",
+            "State": "running",
+            "InstanceType": "c5a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12abbappp02-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-090de86df33d92fd7",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpagdbsp04-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-064b97e67f6bc539b",
+            "State": "running",
+            "InstanceType": "c5a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12abbappp01-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0cd9ef52a5665b23b",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12rpaappp01-ec2",
+            "Project": "RPA-Robotic"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0ddde11f84508216a",
+            "State": "running",
+            "InstanceType": "c5.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2tdiappp02-ec2",
+            "Project": "Lotus-Note"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a27dbd964e4775a6",
+            "State": "running",
+            "InstanceType": "c5a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2ltnappp01-ec2",
+            "Project": "Lotus-Note"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0fe05095df5c97ae2",
+            "State": "running",
+            "InstanceType": "m6a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12ifrsdb01-ec2",
+            "Project": "IFRS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-08528216b2495e67a",
+            "State": "running",
+            "InstanceType": "c6a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12ifrsapp01-ec2",
+            "Project": "IFRS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0faa4b513a5df893a",
+            "State": "running",
+            "InstanceType": "t3a.medium",
+            "PublicIP": null,
+            "Name": "PRD-w2redappp03-ec2",
+            "Project": "Redmine"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-020b2f0cc619ffb71",
+            "State": "running",
+            "InstanceType": "t3a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12bsaapp01-ec2",
+            "Project": "Biometric-Security"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-041f2f4cb7d5419ec",
+            "State": "running",
+            "InstanceType": "c5a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12basdbp01-ec2",
+            "Project": "Biometric-Security"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-07744813d2c05b2b9",
+            "State": "running",
+            "InstanceType": "m6i.large",
+            "PublicIP": null,
+            "Name": "PRD-w2signageappp01-ec2",
+            "Project": "Signage-Oil"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-086cc9f82e89586ea",
+            "State": "running",
+            "InstanceType": "m6a.large",
+            "PublicIP": null,
+            "Name": "PRD-uglpiptgp01-ec2",
+            "Project": "GLPI-AD"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-093b6f2990ba77706",
+            "State": "running",
+            "InstanceType": "m4.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-uglpiitp01-ec2",
+            "Project": "GLPI-Service-Desk"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0eb647548e8ced308",
+            "State": "running",
+            "InstanceType": "m4.large",
+            "PublicIP": null,
+            "Name": "PRD-uglpiengp01-ec2",
+            "Project": "GLPI-Engineer"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-068f771e7f1fe233d",
+            "State": "running",
+            "InstanceType": "m5.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2tmateappp01-ec2",
+            "Project": "Teammate"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-017aa167b7c6cf500",
+            "State": "running",
+            "InstanceType": "m5.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2tmatedbsp01-ec2",
+            "Project": "Teammate"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a4c3cceb6c723e7b",
+            "State": "running",
+            "InstanceType": "c7i.large",
+            "PublicIP": null,
+            "Name": "PRD-cookies-policy-ec2",
+            "Project": "Cookies-Policy"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-08e25522ff5c4200a",
+            "State": "running",
+            "InstanceType": "c5a.large",
+            "PublicIP": null,
+            "Name": "PRD-w12-sapremosupp-ec2",
+            "Project": "Staging-Web"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0126e01f6bda2cbd3",
+            "State": "running",
+            "InstanceType": "c5a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-enterpriseportal-ec2",
+            "Project": "Enterprise-Portal"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0f1af6844dd62713f",
+            "State": "running",
+            "InstanceType": "c4.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-uglpisafp01-ec2",
+            "Project": "GLPI-Safety"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-003d8e13870f5d8c5",
+            "State": "running",
+            "InstanceType": "r6a.large",
+            "PublicIP": null,
+            "Name": "PRD-w2axr3appp01-ec2",
+            "Project": "Microsoft-AX"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0152764c8fcc8dcc9",
+            "State": "running",
+            "InstanceType": "c6a.large",
+            "PublicIP": null,
+            "Name": "PRD-w2axr3rptp01-ec2",
+            "Project": "Microsoft-AX"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0bd6e8dbe8ce4daec",
+            "State": "running",
+            "InstanceType": "t3a.medium",
+            "PublicIP": null,
+            "Name": "PRD-w2axr3cssp01-ec2",
+            "Project": "Microsoft-AX"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0d318ef8775cf9dc9",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2remaxr3tp01-ec2",
+            "Project": "Microsoft-AX"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-085e5c50e40ffed02",
+            "State": "running",
+            "InstanceType": "r6i.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2axr3dbsp01-ec2",
+            "Project": "Microsoft-AX"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0f4f6261a5c361b5a",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2ptgwebfp-01-ec2",
+            "Project": "PTG-Website"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-078da6dffbb738af5",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2ptgapicp01-ec2",
+            "Project": "PTG-Website"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00a3dea8c2e0fd37d",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2ptgwebbp01-ec2",
+            "Project": "PTG-Website"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-08c20e62565dab488",
+            "State": "running",
+            "InstanceType": "c5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2ptgapifp01-ec2",
+            "Project": "PTG-Website"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-075a6888714201572",
+            "State": "running",
+            "InstanceType": "c4.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-uglpicrmp01-ec2",
+            "Project": "GLPI-CRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-012ecbda73c09ba09",
+            "State": "stopped",
+            "InstanceType": "r5a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w12ssisappp01-ec2",
+            "Project": "Integration-SSIS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0fb290b45a524cf8c",
+            "State": "running",
+            "InstanceType": "m6i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-inf-actvdb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0085a6ddc59450e30",
+            "State": "running",
+            "InstanceType": "m6i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-hq-actvdb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a8c253494cccb050",
+            "State": "running",
+            "InstanceType": "r6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-staging-atcvdb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b2b4a21e77248450",
+            "State": "running",
+            "InstanceType": "c6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-batch-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03d3b167badb6a44b",
+            "State": "running",
+            "InstanceType": "m6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-omni-actvdb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-004f56ae4ff807d51",
+            "State": "running",
+            "InstanceType": "c6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-inf-az1a-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-014a24c541a307fed",
+            "State": "running",
+            "InstanceType": "m6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-hq-az1a-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-01b4312ea55113707",
+            "State": "running",
+            "InstanceType": "m6i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-reporting-db-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0bf99eff4be614d21",
+            "State": "running",
+            "InstanceType": "m6i.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-omni-az1a-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0dda6ac49a524ef74",
+            "State": "running",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-ams-blob-s3-sync-tmp-ec2",
+            "Project": "AMS"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0bab559c5a140dccb",
+            "State": "running",
+            "InstanceType": "r6i.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-w2hrlinep01-ec2",
+            "Project": "Line-HR"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0e57a9e141e67d002",
+            "State": "running",
+            "InstanceType": "m6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-omni-stbydb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0dc8b9c4b8ff605d0",
+            "State": "running",
+            "InstanceType": "m6i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-inf-stbydb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-088563c1868c94188",
+            "State": "running",
+            "InstanceType": "m6i.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-hq-stbydb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-01c07c9a73a3bf7d2",
+            "State": "running",
+            "InstanceType": "r6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-staging-stbydb-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0066d833916eb5258",
+            "State": "running",
+            "InstanceType": "c6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-inf-az1b-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-073154cc4f68df32b",
+            "State": "running",
+            "InstanceType": "m6i.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-hq-az1b-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c0f5967fa0bc8422",
+            "State": "running",
+            "InstanceType": "m6i.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-omni-az1b-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b12f5e5a01102ef8",
+            "State": "running",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-inf-master-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-033d045c1b01bb2ec",
+            "State": "running",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-hq-master-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03fc7d38e0d6b5f65",
+            "State": "running",
+            "InstanceType": "t3.medium",
+            "PublicIP": null,
+            "Name": "PRD-lsretail-omni-master-ec2",
+            "Project": "LS-Retail"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-08612e066ec0edd5a",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-ptg-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-02e68737c3c8321a2",
+            "State": "running",
+            "InstanceType": "c5.large",
+            "PublicIP": null,
+            "Name": "PRD-lulinebotp01-ec2",
+            "Project": "Line-IT-Station-Support"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0d81d8676704c593f",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-billpayment-eks-node-ec2",
+            "Project": "Bill-Payment"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-04a0dc627fd1d2c7e",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-billpayment-eks-node-ec2",
+            "Project": "Bill-Payment"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-01f08b33c089e26e2",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-ptg-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-04a2e0d062b4d33c7",
+            "State": "running",
+            "InstanceType": "m6i.large",
+            "PublicIP": null,
+            "Name": "PRD-vrm-app-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00a46cedd52b85187",
+            "State": "running",
+            "InstanceType": "t3a.medium",
+            "PublicIP": null,
+            "Name": "PRD-vrm-api-master-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-002f842c8231ab335",
+            "State": "running",
+            "InstanceType": "m6i.large",
+            "PublicIP": null,
+            "Name": "PRD-vrm-prpoapprove-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-05959c9944d8b3eb9",
+            "State": "running",
+            "InstanceType": "m6i.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-vrm-invoice-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-013b9ab90f671e474",
+            "State": "running",
+            "InstanceType": "m6a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-vrm-api-asg-node-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00f408d919c25edbf",
+            "State": "running",
+            "InstanceType": "c6a.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-vrm-api-inquiry-asg-node-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0c01ebf3a60264c86",
+            "State": "running",
+            "InstanceType": "m6a.xlarge",
+            "PublicIP": null,
+            "Name": "PRD-vrm-api-asg-node-ec2",
+            "Project": "VRM"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a0416b9e051b6f73",
+            "State": "running",
+            "InstanceType": "c6a.4xlarge",
+            "PublicIP": null,
+            "Name": "PRD-vrm-api-inquiry-asg-node-ec2",
+            "Project": "VRM"
+        }
+    ]
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "InstanceID": "prd-maxstation-db",
+        "State": "available",
+        "InstanceType": "db.r6i.2xlarge",
+        "PublicIP": "prd-maxstation-db.cxj75fqprnuf.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Max-Station"
+    },
+    {
+        "InstanceID": "prd-paymentservice-db",
+        "State": "available",
+        "InstanceType": "db.m6i.large",
+        "PublicIP": "prd-paymentservice-db.cxj75fqprnuf.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Payment-Service"
+    },
+    {
+        "InstanceID": "prd-warpad-db",
+        "State": "available",
+        "InstanceType": "db.r5d.xlarge",
+        "PublicIP": "prd-warpad-db.cxj75fqprnuf.ap-southeast-1.rds.amazonaws.com",
+        "Name": null,
+        "Project": "Warpad"
+    }
+]

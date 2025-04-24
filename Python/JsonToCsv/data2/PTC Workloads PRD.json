@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "InstanceID": "i-0cdc260a13a6b6a7a",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-warpad-eks-node-ec2",
+            "Project": "Warpad"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-08295cebc2cdcc4a7",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-ptc-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-04e678ee9cdc582be",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-warpad-eks-node-ec2",
+            "Project": "Warpad"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0a9637b99d1987b11",
+            "State": "running",
+            "InstanceType": "m6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-maxstation-eks-node-ec2",
+            "Project": "Max-Station"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-00a3feefa6cb7c6d2",
+            "State": "running",
+            "InstanceType": "m6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-maxstation-eks-node-ec2",
+            "Project": "Max-Station"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-03d9bfc09097f7bba",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-ptc-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0b56b840d23d38603",
+            "State": "running",
+            "InstanceType": "m6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-maxstation-eks-node-ec2",
+            "Project": "Max-Station"
+        }
+    ]
+]

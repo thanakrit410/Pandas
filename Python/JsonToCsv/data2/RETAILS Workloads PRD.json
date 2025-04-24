@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "InstanceID": "i-02b14ba0d7a41271a",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-punthai-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ],
+    [
+        {
+            "InstanceID": "i-0229773289056ea7c",
+            "State": "running",
+            "InstanceType": "c6a.2xlarge",
+            "PublicIP": null,
+            "Name": "PRD-punthai-eks-node-ec2",
+            "Project": "Infrastructure"
+        }
+    ]
+]

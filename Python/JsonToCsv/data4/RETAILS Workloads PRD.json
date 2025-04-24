@@ -1,0 +1,93 @@
+[
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/02d847201f7e4cc8960c76c44ea93ab8",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-portal-service-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/13079661568a46b6826d6718967913ff",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-portal-ecs-service",
+        "CPU": "256",
+        "Memory": "512"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/455a005e1ba04108b3defd0d58acfb94",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-ecs-service",
+        "CPU": "256",
+        "Memory": "512"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/7361e4ceda824a948a619a6f88239ed3",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-ecs-service",
+        "CPU": "256",
+        "Memory": "512"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/e04405c8ec3d4e65ab3d05d60a8fd2cf",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-portal-ecs-service",
+        "CPU": "256",
+        "Memory": "512"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-nexxpharma-ecs-cluster/f9c59a166bc8454183eb613d10de673a",
+        "Cluster": "PRD-nexxpharma-ecs-cluster",
+        "Service": "service:PRD-nexxpharma-web-portal-service-ecs-service",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/21b934a9e0f34a6ebe3798905c4ef14c",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-frontend",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/3b4bc22a9a2748a69cb175447e5fb020",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-backend",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/3dc3a635ca3c4a62b6eeb17c0fe4d9f6",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-worker",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/45f8377994304aefb239ff965e95df0e",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-backend",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/64ca141024704045aa281fa76c402e3b",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-frontend",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/8ea5b11a95864420982aa0e83c00b37b",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-cms",
+        "CPU": "512",
+        "Memory": "1024"
+    },
+    {
+        "TaskARN": "arn:aws:ecs:ap-southeast-1:406797475691:task/PRD-punthai-ecs-cluster/eb651c29f1f847d3a07f220e21664687",
+        "Cluster": "PRD-punthai-ecs-cluster",
+        "Service": "service:PRD-punthai-cms",
+        "CPU": "512",
+        "Memory": "1024"
+    }
+]
